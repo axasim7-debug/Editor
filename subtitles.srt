@@ -1,0 +1,2464 @@
+1
+00:00:02,000 --> 00:00:07,487
+Tonight, somewhere on Earth, someone will step outside, look up, and feel it.
+
+2
+00:00:07,487 --> 00:00:09,554
+That quiet, ancient question.
+
+3
+00:00:09,554 --> 00:00:15,397
+The same one our ancestors asked around their fires, a hundred thousand years ago.
+
+4
+00:00:15,933 --> 00:00:17,235
+Are we alone?
+
+5
+00:00:20,767 --> 00:00:25,260
+For most of history, it was a question for priests and poets.
+
+6
+00:00:25,260 --> 00:00:28,870
+But in the last hundred years, something changed.
+
+7
+00:00:28,870 --> 00:00:32,553
+We built telescopes that can see the edge of time.
+
+8
+00:00:32,553 --> 00:00:35,205
+We sent machines beyond the planets.
+
+9
+00:00:35,205 --> 00:00:41,098
+We learned that the universe is unimaginably old, unimaginably large, and filled
+
+10
+00:00:41,098 --> 00:00:43,529
+with the raw ingredients of life.
+
+11
+00:00:44,067 --> 00:00:46,919
+We discovered that planets are not rare.
+
+12
+00:00:46,919 --> 00:00:48,346
+They are everywhere.
+
+13
+00:00:48,346 --> 00:00:53,837
+Around almost every star you can see tonight, worlds are turning in the dark.
+
+14
+00:00:54,367 --> 00:00:59,573
+And so, by every reasonable expectation, the universe should be crowded.
+
+15
+00:00:59,573 --> 00:01:05,140
+It should be noisy with signals, scarred by engineering, alive with visitors.
+
+16
+00:01:05,667 --> 00:01:08,743
+Instead, when we listen, we hear silence.
+
+17
+00:01:08,743 --> 00:01:10,994
+When we look, we find nothing.
+
+18
+00:01:10,994 --> 00:01:11,819
+No signals.
+
+19
+00:01:11,819 --> 00:01:12,570
+No probes.
+
+20
+00:01:12,570 --> 00:01:13,245
+No ruins.
+
+21
+00:01:13,245 --> 00:01:14,371
+Nothing at all.
+
+22
+00:01:14,900 --> 00:01:16,956
+This contradiction has a name.
+
+23
+00:01:16,956 --> 00:01:22,644
+It is one of the deepest puzzles in all of science, and its answer, whatever it is,
+
+24
+00:01:22,644 --> 00:01:28,333
+will tell us something profound about who we are, and what may be waiting for us in
+
+25
+00:01:28,333 --> 00:01:29,087
+the future.
+
+26
+00:01:31,633 --> 00:01:33,852
+It is called the Fermi Paradox.
+
+27
+00:01:49,900 --> 00:01:52,217
+The summer of nineteen fifty.
+
+28
+00:01:52,217 --> 00:01:54,055
+Los Alamos, New Mexico.
+
+29
+00:01:54,055 --> 00:02:00,766
+The laboratory that built the atomic bomb is now a quiet town of scientists, high on
+
+30
+00:02:00,766 --> 00:02:02,444
+a mesa in the desert.
+
+31
+00:02:02,967 --> 00:02:05,088
+Among them is Enrico Fermi.
+
+32
+00:02:05,088 --> 00:02:06,267
+Nobel laureate.
+
+33
+00:02:06,267 --> 00:02:09,331
+Architect of the first nuclear reactor.
+
+34
+00:02:09,331 --> 00:02:15,459
+A man famous for his ability to estimate almost anything, from the power of an
+
+35
+00:02:15,459 --> 00:02:21,981
+explosion to the number of piano tuners in Chicago, with nothing but a pencil and a
+
+36
+00:02:21,981 --> 00:02:23,788
+few clever assumptions.
+
+37
+00:02:24,333 --> 00:02:30,309
+One day, Fermi walks to lunch with three colleagues: Edward Teller, Herbert York,
+
+38
+00:02:30,309 --> 00:02:31,784
+and Emil Konopinski.
+
+39
+00:02:31,784 --> 00:02:37,169
+The conversation drifts to a strange wave of flying saucer reports in the
+
+40
+00:02:37,169 --> 00:02:43,070
+newspapers, and to a cartoon in The New Yorker that blamed aliens for the city's
+
+41
+00:02:43,070 --> 00:02:44,472
+missing trash cans.
+
+42
+00:02:45,000 --> 00:02:45,683
+They joke.
+
+43
+00:02:45,683 --> 00:02:50,666
+They argue about whether faster than light travel could ever be possible.
+
+44
+00:02:50,666 --> 00:02:54,557
+Then they sit down to eat, and the conversation moves on.
+
+45
+00:02:55,100 --> 00:02:59,772
+Until, suddenly, Fermi asks a question that silences the table.
+
+46
+00:03:01,300 --> 00:03:03,028
+Where is everybody?
+
+47
+00:03:05,567 --> 00:03:11,074
+Those present would later recall that Fermi then ran through a quick calculation.
+
+48
+00:03:11,074 --> 00:03:16,716
+If intelligent life is even moderately common, and if even one civilization learned
+
+49
+00:03:16,716 --> 00:03:22,019
+to travel between the stars, it should have spread across the galaxy long ago.
+
+50
+00:03:22,019 --> 00:03:25,351
+The Milky Way is more than ten billion years old.
+
+51
+00:03:25,351 --> 00:03:30,926
+That is more than enough time for any expanding civilization to reach every corner
+
+52
+00:03:30,926 --> 00:03:32,489
+of it, many times over.
+
+53
+00:03:33,033 --> 00:03:35,261
+So why is there no evidence?
+
+54
+00:03:35,261 --> 00:03:36,852
+Why has no one come?
+
+55
+00:03:37,400 --> 00:03:40,376
+Fermi never wrote a paper on the subject.
+
+56
+00:03:40,376 --> 00:03:42,553
+He died just four years later.
+
+57
+00:03:42,553 --> 00:03:45,310
+But the question did not die with him.
+
+58
+00:03:45,310 --> 00:03:50,536
+For decades it waited, half forgotten, until in nineteen seventy five an
+
+59
+00:03:50,536 --> 00:03:55,398
+astrophysicist named Michael Hart turned it into a formal argument.
+
+60
+00:03:55,398 --> 00:04:00,696
+If no one is here, Hart wrote, perhaps it is because no one is out there.
+
+61
+00:04:01,233 --> 00:04:06,993
+Others pushed back, and the debate became known by the name of the man who had asked
+
+62
+00:04:06,993 --> 00:04:08,639
+the question over lunch.
+
+63
+00:04:08,639 --> 00:04:09,873
+The Fermi Paradox.
+
+64
+00:04:10,400 --> 00:04:14,039
+It is not a paradox in the strict, logical sense.
+
+65
+00:04:14,039 --> 00:04:20,054
+It is something more unsettling: a clash between what we expect, and what we see.
+
+66
+00:04:20,054 --> 00:04:25,846
+And to understand why it matters so much, we first need to understand just how
+
+67
+00:04:25,846 --> 00:04:27,851
+strong that expectation is.
+
+68
+00:04:39,900 --> 00:04:41,193
+Start with home.
+
+69
+00:04:41,193 --> 00:04:46,044
+Earth, a small rocky world orbiting an ordinary yellow star.
+
+70
+00:04:46,567 --> 00:04:52,407
+That star, our Sun, is one of somewhere between one hundred and four hundred billion
+
+71
+00:04:52,407 --> 00:04:54,492
+stars in the Milky Way galaxy.
+
+72
+00:04:54,492 --> 00:05:00,263
+If you counted one star every second, without sleeping, it would take you thousands
+
+73
+00:05:00,263 --> 00:05:02,140
+of years to count them all.
+
+74
+00:05:02,667 --> 00:05:05,601
+And the Milky Way is just one galaxy.
+
+75
+00:05:05,601 --> 00:05:12,264
+Peer into any small, dark patch of sky with a powerful telescope, and you find it is
+
+76
+00:05:12,264 --> 00:05:13,057
+not empty.
+
+77
+00:05:13,057 --> 00:05:18,133
+It is packed with galaxies, each one a city of billions of suns.
+
+78
+00:05:18,667 --> 00:05:24,444
+Astronomers estimate that the observable universe contains at least two hundred
+
+79
+00:05:24,444 --> 00:05:27,369
+billion galaxies, and possibly far more.
+
+80
+00:05:27,369 --> 00:05:33,439
+Multiply those numbers together, and the count of stars becomes almost meaningless.
+
+81
+00:05:33,439 --> 00:05:37,461
+More stars than grains of sand on every beach on Earth.
+
+82
+00:05:38,000 --> 00:05:43,475
+For most of the twentieth century, though, we did not know whether any of those
+
+83
+00:05:43,475 --> 00:05:44,723
+stars had planets.
+
+84
+00:05:44,723 --> 00:05:49,782
+It was possible, some argued, that our solar system was a freak accident.
+
+85
+00:05:49,782 --> 00:05:51,376
+That planets were rare.
+
+86
+00:05:51,900 --> 00:05:57,899
+Then, in nineteen ninety five, two Swiss astronomers, Michel Mayor and Didier
+
+87
+00:05:57,899 --> 00:06:03,118
+Queloz, detected a giant planet orbiting the star fifty one Pegasi.
+
+88
+00:06:03,118 --> 00:06:07,637
+It was the first planet ever found around a Sun like star.
+
+89
+00:06:07,637 --> 00:06:09,351
+The floodgates opened.
+
+90
+00:06:09,900 --> 00:06:14,540
+In two thousand nine, NASA launched the Kepler space telescope.
+
+91
+00:06:14,540 --> 00:06:20,431
+For years it stared at a single patch of sky, watching more than one hundred and
+
+92
+00:06:20,431 --> 00:06:26,176
+fifty thousand stars for the tiny dimming that happens when a planet passes in
+
+93
+00:06:26,176 --> 00:06:26,617
+front.
+
+94
+00:06:26,617 --> 00:06:29,121
+The results transformed astronomy.
+
+95
+00:06:29,667 --> 00:06:35,424
+Today, the count of confirmed planets beyond our solar system has passed six
+
+96
+00:06:35,424 --> 00:06:36,106
+thousand.
+
+97
+00:06:36,106 --> 00:06:42,166
+And statistically, the conclusion is overwhelming: on average, every star in the
+
+98
+00:06:42,166 --> 00:06:44,514
+galaxy has at least one planet.
+
+99
+00:06:44,514 --> 00:06:47,544
+Planets are the rule, not the exception.
+
+100
+00:06:48,067 --> 00:06:53,778
+More striking still, a significant fraction of stars host rocky planets in what
+
+101
+00:06:53,778 --> 00:06:59,562
+astronomers call the habitable zone, the band of orbits where temperatures could
+
+102
+00:06:59,562 --> 00:07:02,020
+allow liquid water on the surface.
+
+103
+00:07:02,020 --> 00:07:07,587
+Estimates vary, but there may be billions of such worlds in our galaxy alone.
+
+104
+00:07:08,133 --> 00:07:10,163
+Some are startlingly close.
+
+105
+00:07:10,163 --> 00:07:16,476
+Proxima Centauri, the nearest star to the Sun, hosts a planet in its habitable zone,
+
+106
+00:07:16,476 --> 00:07:18,882
+just over four light years away.
+
+107
+00:07:18,882 --> 00:07:25,120
+The star TRAPPIST one has seven Earth sized worlds, three of them in the zone where
+
+108
+00:07:25,120 --> 00:07:27,525
+water might pool on the surface.
+
+109
+00:07:28,067 --> 00:07:31,781
+And the ingredients of life are not rare either.
+
+110
+00:07:31,781 --> 00:07:37,507
+Water is found everywhere, from comets to the moons of Jupiter and Saturn.
+
+111
+00:07:37,507 --> 00:07:41,763
+Complex organic molecules float in interstellar clouds.
+
+112
+00:07:41,763 --> 00:07:48,185
+Amino acids, the building blocks of proteins, have been found inside meteorites and
+
+113
+00:07:48,185 --> 00:07:50,893
+in samples returned from asteroids.
+
+114
+00:07:51,433 --> 00:07:54,831
+On Earth, life appeared astonishingly early.
+
+115
+00:07:54,831 --> 00:08:01,162
+Within a few hundred million years of the planet becoming habitable, microbes were
+
+116
+00:08:01,162 --> 00:08:02,166
+already here.
+
+117
+00:08:02,166 --> 00:08:08,421
+To many scientists, that speed suggests life may arise easily whenever conditions
+
+118
+00:08:08,421 --> 00:08:08,884
+allow.
+
+119
+00:08:09,433 --> 00:08:10,966
+So the stage is set.
+
+120
+00:08:10,966 --> 00:08:12,422
+Billions of worlds.
+
+121
+00:08:12,422 --> 00:08:14,031
+Abundant ingredients.
+
+122
+00:08:14,031 --> 00:08:16,024
+Billions of years of time.
+
+123
+00:08:16,024 --> 00:08:22,308
+If the universe were a lottery, it seems to have printed an almost infinite number
+
+124
+00:08:22,308 --> 00:08:23,151
+of tickets.
+
+125
+00:08:23,700 --> 00:08:25,833
+Surely, someone else has won.
+
+126
+00:08:37,867 --> 00:08:44,241
+In nineteen sixty one, a young radio astronomer named Frank Drake organized a small
+
+127
+00:08:44,241 --> 00:08:50,462
+meeting at the National Radio Astronomy Observatory in Green Bank, West Virginia.
+
+128
+00:08:50,462 --> 00:08:56,836
+It was the first scientific conference ever held on the search for extraterrestrial
+
+129
+00:08:56,836 --> 00:08:57,835
+intelligence.
+
+130
+00:08:58,367 --> 00:09:00,924
+Only about a dozen people attended.
+
+131
+00:09:00,924 --> 00:09:06,842
+Among them were a young Carl Sagan, the chemist Melvin Calvin, who learned during
+
+132
+00:09:06,842 --> 00:09:12,979
+the meeting that he had won the Nobel Prize, and John Lilly, a scientist who studied
+
+133
+00:09:12,979 --> 00:09:14,879
+communication in dolphins.
+
+134
+00:09:14,879 --> 00:09:20,212
+Afterward, the group jokingly called themselves the Order of the Dolphin.
+
+135
+00:09:20,733 --> 00:09:26,194
+To give the discussion some structure, Drake wrote a single line on the blackboard.
+
+136
+00:09:26,194 --> 00:09:30,141
+It would become one of the most famous equations in science.
+
+137
+00:09:30,667 --> 00:09:33,569
+The Drake Equation does not give an answer.
+
+138
+00:09:33,569 --> 00:09:35,594
+It asks a series of questions.
+
+139
+00:09:35,594 --> 00:09:38,833
+How many new stars form in our galaxy each year?
+
+140
+00:09:38,833 --> 00:09:41,196
+What fraction of them have planets?
+
+141
+00:09:41,196 --> 00:09:44,233
+How many of those planets could support life?
+
+142
+00:09:44,233 --> 00:09:47,067
+On what fraction does life actually begin?
+
+143
+00:09:47,067 --> 00:09:50,105
+Of those, how often does intelligence emerge?
+
+144
+00:09:50,105 --> 00:09:55,504
+How often does intelligence produce technology that can send signals into space?
+
+145
+00:09:55,504 --> 00:10:00,836
+And finally, the most haunting factor of all: how long does such a civilization
+
+146
+00:10:00,836 --> 00:10:01,173
+last?
+
+147
+00:10:01,700 --> 00:10:07,248
+Multiply these together, and you get the number of civilizations in our galaxy that
+
+148
+00:10:07,248 --> 00:10:09,721
+we might be able to detect right now.
+
+149
+00:10:10,267 --> 00:10:14,363
+In nineteen sixty one, almost every factor was a guess.
+
+150
+00:10:14,363 --> 00:10:20,544
+Today, thanks to Kepler and other surveys, we have measured the first few with real
+
+151
+00:10:20,544 --> 00:10:21,363
+confidence.
+
+152
+00:10:21,363 --> 00:10:23,672
+We know how quickly stars form.
+
+153
+00:10:23,672 --> 00:10:26,576
+We know that most of them have planets.
+
+154
+00:10:26,576 --> 00:10:30,747
+We know that rocky worlds in habitable zones are common.
+
+155
+00:10:31,267 --> 00:10:34,823
+But the remaining terms are still pure mystery.
+
+156
+00:10:34,823 --> 00:10:40,877
+We have exactly one example of life, and one example of a technological species.
+
+157
+00:10:40,877 --> 00:10:44,963
+You cannot calculate a probability from a single case.
+
+158
+00:10:45,500 --> 00:10:51,261
+Depending on what you assume, the Drake Equation can tell you that the galaxy holds
+
+159
+00:10:51,261 --> 00:10:56,953
+millions of civilizations, or that we are the only one, or that even we should not
+
+160
+00:10:56,953 --> 00:10:57,369
+exist.
+
+161
+00:10:57,369 --> 00:11:03,131
+The attendees at Green Bank guessed there might be somewhere between a thousand and
+
+162
+00:11:03,131 --> 00:11:04,380
+a hundred million.
+
+163
+00:11:04,900 --> 00:11:09,876
+For this reason, some critics have called it an equation of ignorance.
+
+164
+00:11:09,876 --> 00:11:12,933
+But that is exactly what makes it valuable.
+
+165
+00:11:12,933 --> 00:11:16,274
+It shows us precisely where our knowledge ends.
+
+166
+00:11:16,274 --> 00:11:22,032
+And it shows us something else: the final factor, the lifetime of a civilization,
+
+167
+00:11:22,032 --> 00:11:25,231
+may matter more than all the others combined.
+
+168
+00:11:25,767 --> 00:11:31,442
+If technological civilizations last only a few centuries before destroying
+
+169
+00:11:31,442 --> 00:11:36,733
+themselves, the galaxy may be a graveyard of brief, isolated flashes.
+
+170
+00:11:36,733 --> 00:11:41,181
+If they last millions of years, the galaxy should be full.
+
+171
+00:11:41,181 --> 00:11:46,396
+Hidden inside the Drake Equation is a question about our own future.
+
+172
+00:11:58,433 --> 00:12:04,509
+In April of nineteen sixty, a year before the Green Bank meeting, Frank Drake had
+
+173
+00:12:04,509 --> 00:12:06,309
+already begun to listen.
+
+174
+00:12:06,309 --> 00:12:12,535
+He pointed a twenty six meter radio dish toward two nearby Sun like stars, Tau Ceti
+
+175
+00:12:12,535 --> 00:12:18,836
+and Epsilon Eridani, and tuned to the frequency of hydrogen, the most common element
+
+176
+00:12:18,836 --> 00:12:24,161
+in the universe, a natural channel any curious astronomer might choose.
+
+177
+00:12:24,700 --> 00:12:30,765
+He called it Project Ozma, after the princess of the land of Oz, a place, as he put
+
+178
+00:12:30,765 --> 00:12:35,880
+it, very far away, difficult to reach, and populated by exotic beings.
+
+179
+00:12:35,880 --> 00:12:37,561
+For weeks, he listened.
+
+180
+00:12:37,561 --> 00:12:43,333
+There was a brief moment of excitement, a strong signal that turned out to be a
+
+181
+00:12:43,333 --> 00:12:44,576
+passing aircraft.
+
+182
+00:12:44,576 --> 00:12:46,695
+Otherwise, there was nothing.
+
+183
+00:12:47,233 --> 00:12:52,183
+It was the beginning of a search that has now lasted more than sixty years.
+
+184
+00:12:52,700 --> 00:12:57,997
+On the night of August fifteenth, nineteen seventy seven, the Big Ear radio
+
+185
+00:12:57,997 --> 00:13:02,870
+telescope at Ohio State University picked up something extraordinary.
+
+186
+00:13:02,870 --> 00:13:08,732
+A narrow band signal, far stronger than the background noise, from the direction of
+
+187
+00:13:08,732 --> 00:13:10,851
+the constellation Sagittarius.
+
+188
+00:13:10,851 --> 00:13:16,784
+It lasted about seventy two seconds, exactly as long as a fixed source would take to
+
+189
+00:13:16,784 --> 00:13:20,668
+drift through the telescope's beam as the Earth turned.
+
+190
+00:13:21,200 --> 00:13:27,319
+A few days later, volunteer astronomer Jerry Ehman was reviewing the computer
+
+191
+00:13:27,319 --> 00:13:28,114
+printouts.
+
+192
+00:13:28,114 --> 00:13:34,391
+He saw the sequence of characters, six E Q U J five, circled it in red ink, and
+
+193
+00:13:34,391 --> 00:13:37,093
+wrote a single word in the margin.
+
+194
+00:13:37,633 --> 00:13:38,444
+Wow.
+
+195
+00:13:40,967 --> 00:13:46,221
+Astronomers returned to that patch of sky again and again, for decades.
+
+196
+00:13:46,221 --> 00:13:48,145
+The signal never repeated.
+
+197
+00:13:48,145 --> 00:13:54,287
+Recent research has suggested a natural explanation: a sudden brightening of a cold
+
+198
+00:13:54,287 --> 00:13:58,357
+hydrogen cloud, struck by energy from a passing source.
+
+199
+00:13:58,357 --> 00:14:04,277
+But to this day, the Wow signal remains the most famous unexplained event in the
+
+200
+00:14:04,277 --> 00:14:05,905
+history of the search.
+
+201
+00:14:06,433 --> 00:14:09,671
+In nineteen seventy four, humanity spoke back.
+
+202
+00:14:09,671 --> 00:14:15,443
+At the dedication of the upgraded Arecibo radio telescope in Puerto Rico, then the
+
+203
+00:14:15,443 --> 00:14:21,073
+largest in the world, astronomers beamed a short message toward the star cluster
+
+204
+00:14:21,073 --> 00:14:25,015
+Messier thirteen, twenty five thousand light years away.
+
+205
+00:14:25,015 --> 00:14:30,505
+One thousand six hundred and seventy nine binary digits, encoding numbers, the
+
+206
+00:14:30,505 --> 00:14:36,277
+elements of life, the shape of DNA, a human figure, and a picture of the telescope
+
+207
+00:14:36,277 --> 00:14:36,769
+itself.
+
+208
+00:14:37,300 --> 00:14:43,566
+Three years later, the twin Voyager spacecraft were launched, each carrying a golden
+
+209
+00:14:43,566 --> 00:14:44,088
+record.
+
+210
+00:14:44,088 --> 00:14:46,624
+Greetings in fifty five languages.
+
+211
+00:14:46,624 --> 00:14:48,936
+Music from Bach to Chuck Berry.
+
+212
+00:14:48,936 --> 00:14:54,307
+The sounds of rain, of laughter, of a mother's first words to her child.
+
+213
+00:14:54,307 --> 00:14:58,036
+A message in a bottle, cast into the cosmic ocean.
+
+214
+00:14:58,567 --> 00:15:04,561
+Voyager one is now more than twenty four billion kilometers from Earth, the most
+
+215
+00:15:04,561 --> 00:15:07,483
+distant human made object in existence.
+
+216
+00:15:07,483 --> 00:15:13,477
+It will not come within two light years of another star for about forty thousand
+
+217
+00:15:13,477 --> 00:15:13,927
+years.
+
+218
+00:15:14,467 --> 00:15:15,756
+The search went on.
+
+219
+00:15:15,756 --> 00:15:21,049
+In nineteen ninety two, NASA launched an ambitious listening program, only for
+
+220
+00:15:21,049 --> 00:15:24,035
+Congress to cancel its funding a year later.
+
+221
+00:15:24,035 --> 00:15:28,310
+The SETI Institute carried the work forward with private money.
+
+222
+00:15:28,310 --> 00:15:33,603
+In two thousand fifteen, the billionaire Yuri Milner and the physicist Stephen
+
+223
+00:15:33,603 --> 00:15:39,168
+Hawking announced Breakthrough Listen, a hundred million dollar, ten year program,
+
+224
+00:15:39,168 --> 00:15:42,221
+the most comprehensive search ever attempted.
+
+225
+00:15:42,767 --> 00:15:48,282
+Breakthrough Listen has surveyed thousands of nearby stars, the center of our
+
+226
+00:15:48,282 --> 00:15:52,364
+galaxy, and the cores of nearly a hundred other galaxies.
+
+227
+00:15:52,364 --> 00:15:57,521
+It has used artificial intelligence to sift through billions of signals.
+
+228
+00:15:57,521 --> 00:16:03,108
+It even turned its ears toward interstellar visitors passing through our solar
+
+229
+00:16:03,108 --> 00:16:03,609
+system.
+
+230
+00:16:04,133 --> 00:16:08,735
+The result, so far, is the same as Drake's in nineteen sixty.
+
+231
+00:16:08,735 --> 00:16:09,339
+Silence.
+
+232
+00:16:09,867 --> 00:16:12,010
+But is that silence meaningful?
+
+233
+00:16:12,010 --> 00:16:17,542
+The astronomer Jill Tarter, one of the pioneers of modern SETI, offered a famous
+
+234
+00:16:17,542 --> 00:16:18,303
+comparison.
+
+235
+00:16:18,303 --> 00:16:23,696
+Our search so far, she said, is like scooping a single glass of water from the
+
+236
+00:16:23,696 --> 00:16:24,111
+ocean.
+
+237
+00:16:24,111 --> 00:16:29,850
+If you found no fish in that glass, you would not conclude that the ocean is empty.
+
+238
+00:16:29,850 --> 00:16:34,414
+In two thousand eighteen, a team led by Jason Wright recalculated.
+
+239
+00:16:34,414 --> 00:16:40,015
+The amount searched had grown, but only to about one large hot tub, compared with
+
+240
+00:16:40,015 --> 00:16:41,675
+all the oceans of Earth.
+
+241
+00:16:42,200 --> 00:16:45,315
+So perhaps the silence means nothing yet.
+
+242
+00:16:45,315 --> 00:16:47,975
+And yet, there is a deeper problem.
+
+243
+00:16:47,975 --> 00:16:51,926
+The Fermi Paradox is not really about radio signals.
+
+244
+00:16:51,926 --> 00:16:54,509
+It is about something much larger.
+
+245
+00:17:06,533 --> 00:17:12,445
+Imagine a civilization just a little ahead of us, sending out spacecraft at one
+
+246
+00:17:12,445 --> 00:17:14,316
+tenth the speed of light.
+
+247
+00:17:14,316 --> 00:17:20,377
+Not science fiction physics, just a modest extension of technology we can already
+
+248
+00:17:20,377 --> 00:17:20,976
+imagine.
+
+249
+00:17:21,500 --> 00:17:26,139
+When a ship arrives at a new star system, it builds a settlement.
+
+250
+00:17:26,139 --> 00:17:30,849
+After a few centuries, that settlement sends out ships of its own.
+
+251
+00:17:30,849 --> 00:17:36,630
+Even with long pauses at every stop, the wave of expansion would cross the entire
+
+252
+00:17:36,630 --> 00:17:42,125
+Milky Way, about one hundred thousand light years, in somewhere between a few
+
+253
+00:17:42,125 --> 00:17:45,265
+million and a few tens of millions of years.
+
+254
+00:17:45,800 --> 00:17:47,939
+That sounds like a long time.
+
+255
+00:17:47,939 --> 00:17:48,677
+It is not.
+
+256
+00:17:48,677 --> 00:17:52,291
+The galaxy is roughly thirteen billion years old.
+
+257
+00:17:52,291 --> 00:17:55,684
+Earth has existed for four and a half billion.
+
+258
+00:17:55,684 --> 00:18:01,733
+If you compressed the galaxy's history into a single year, the colonization of the
+
+259
+00:18:01,733 --> 00:18:04,979
+entire Milky Way would take less than a day.
+
+260
+00:18:05,500 --> 00:18:09,553
+And a civilization does not even need to travel itself.
+
+261
+00:18:09,553 --> 00:18:15,375
+The mathematician John von Neumann imagined machines that could build copies of
+
+262
+00:18:15,375 --> 00:18:16,185
+themselves.
+
+263
+00:18:16,185 --> 00:18:22,302
+A self replicating probe could arrive at a star, mine an asteroid, build two copies
+
+264
+00:18:22,302 --> 00:18:24,660
+of itself, and send them onward.
+
+265
+00:18:24,660 --> 00:18:30,408
+Within a few million years, there could be a probe in every star system of the
+
+266
+00:18:30,408 --> 00:18:32,103
+galaxy, including ours.
+
+267
+00:18:32,633 --> 00:18:37,412
+Advanced civilizations might also be visible simply by their size.
+
+268
+00:18:37,412 --> 00:18:43,494
+In nineteen sixty, the physicist Freeman Dyson suggested that a growing civilization
+
+269
+00:18:43,494 --> 00:18:49,359
+would eventually want all the energy of its star, and might surround it with vast
+
+270
+00:18:49,359 --> 00:18:54,210
+collecting structures, a swarm of panels now called a Dyson sphere.
+
+271
+00:18:54,210 --> 00:19:00,292
+Such a star would glow strangely in infrared light, the waste heat of a civilization
+
+272
+00:19:00,292 --> 00:19:01,668
+impossible to hide.
+
+273
+00:19:02,200 --> 00:19:08,714
+In nineteen sixty four, the Soviet astronomer Nikolai Kardashev proposed a scale for
+
+274
+00:19:08,714 --> 00:19:11,041
+civilizations based on energy.
+
+275
+00:19:11,041 --> 00:19:16,315
+A Type One civilization uses all the energy available on its planet.
+
+276
+00:19:16,315 --> 00:19:19,882
+Type Two harnesses the full power of its star.
+
+277
+00:19:19,882 --> 00:19:23,837
+Type Three commands the energy of an entire galaxy.
+
+278
+00:19:23,837 --> 00:19:28,568
+Humanity, by most calculations, has not yet reached Type One.
+
+279
+00:19:29,100 --> 00:19:34,721
+A Type Three civilization would be visible across millions of light years.
+
+280
+00:19:34,721 --> 00:19:36,545
+Astronomers have looked.
+
+281
+00:19:36,545 --> 00:19:42,546
+Surveys of tens of thousands of galaxies with infrared telescopes have found no
+
+282
+00:19:42,546 --> 00:19:46,572
+clear sign of galaxies being consumed by engineering.
+
+283
+00:19:47,100 --> 00:19:50,247
+That is the true force of Fermi's question.
+
+284
+00:19:50,247 --> 00:19:53,028
+It is not just that no one has called.
+
+285
+00:19:53,028 --> 00:19:56,907
+It is that no one seems to have done anything at all.
+
+286
+00:19:56,907 --> 00:19:59,103
+No probes in our solar system.
+
+287
+00:19:59,103 --> 00:19:59,908
+No beacons.
+
+288
+00:19:59,908 --> 00:20:02,396
+No stars dimmed by megastructures.
+
+289
+00:20:02,396 --> 00:20:08,104
+In a galaxy billions of years old, with billions of habitable worlds, even one
+
+290
+00:20:08,104 --> 00:20:12,935
+expansionist civilization should have left its mark on everything.
+
+291
+00:20:13,467 --> 00:20:18,719
+And yet, everywhere we look, the universe appears natural, untouched, empty.
+
+292
+00:20:18,719 --> 00:20:22,659
+Something, somewhere, must be wrong with our assumptions.
+
+293
+00:20:22,659 --> 00:20:26,875
+Over the decades, scientists have proposed dozens of answers.
+
+294
+00:20:26,875 --> 00:20:29,363
+They fall into three broad families.
+
+295
+00:20:29,363 --> 00:20:30,815
+Perhaps life is rare.
+
+296
+00:20:30,815 --> 00:20:32,888
+Perhaps something destroys it.
+
+297
+00:20:32,888 --> 00:20:37,104
+Or perhaps they are out there, and we simply cannot see them.
+
+298
+00:20:49,133 --> 00:20:55,173
+In the year two thousand, the paleontologist Peter Ward and the astronomer Donald
+
+299
+00:20:55,173 --> 00:20:59,795
+Brownlee published a book that challenged decades of optimism.
+
+300
+00:20:59,795 --> 00:21:01,659
+It was called Rare Earth.
+
+301
+00:21:01,659 --> 00:21:07,698
+Their argument was simple: simple life might be common, but complex life, animals
+
+302
+00:21:07,698 --> 00:21:11,128
+and intelligence, may be extraordinarily rare.
+
+303
+00:21:11,667 --> 00:21:15,235
+Consider everything that had to go right for us.
+
+304
+00:21:15,235 --> 00:21:21,257
+Our Sun sits in a relatively calm region of the galaxy, far from the crowded core
+
+305
+00:21:21,257 --> 00:21:26,536
+where supernova explosions and intense radiation may sterilize planets.
+
+306
+00:21:27,067 --> 00:21:29,790
+Our Sun itself is unusually stable.
+
+307
+00:21:29,790 --> 00:21:36,169
+Many stars, especially the common red dwarfs, erupt with violent flares that could
+
+308
+00:21:36,169 --> 00:21:38,736
+strip away a planet's atmosphere.
+
+309
+00:21:39,267 --> 00:21:45,249
+Our solar system has Jupiter, a giant that may have shaped the delivery of water and
+
+310
+00:21:45,249 --> 00:21:48,739
+helped stabilize the orbits of the inner planets.
+
+311
+00:21:49,267 --> 00:21:55,384
+We have a large Moon, born from a colossal collision, which may help stabilize the
+
+312
+00:21:55,384 --> 00:22:00,531
+tilt of Earth's axis and with it our climate over long spans of time.
+
+313
+00:22:01,067 --> 00:22:07,295
+Earth has plate tectonics, a slow geological engine that recycles carbon and helps
+
+314
+00:22:07,295 --> 00:22:11,548
+regulate temperature over hundreds of millions of years.
+
+315
+00:22:11,548 --> 00:22:16,789
+It has a magnetic field that shields the surface from the solar wind.
+
+316
+00:22:17,333 --> 00:22:19,470
+And then there is life itself.
+
+317
+00:22:19,470 --> 00:22:25,097
+For roughly two billion years, life on Earth consisted of single, simple cells.
+
+318
+00:22:25,097 --> 00:22:31,080
+Then, in an event that seems to have happened only once in the entire history of the
+
+319
+00:22:31,080 --> 00:22:36,208
+planet, one cell engulfed another, and instead of digesting it, formed a
+
+320
+00:22:36,208 --> 00:22:37,062
+partnership.
+
+321
+00:22:37,062 --> 00:22:42,832
+That accident gave rise to the complex cell, the ancestor of every plant, animal,
+
+322
+00:22:42,832 --> 00:22:44,256
+and fungus on Earth.
+
+323
+00:22:44,800 --> 00:22:51,039
+Even after that, it took more than a billion additional years for complex animals to
+
+324
+00:22:51,039 --> 00:22:51,559
+appear.
+
+325
+00:22:51,559 --> 00:22:57,724
+And of the billions of species that have ever lived on Earth, exactly one has built
+
+326
+00:22:57,724 --> 00:22:58,987
+radio telescopes.
+
+327
+00:22:59,533 --> 00:23:02,823
+Our story was shaped by chance at every turn.
+
+328
+00:23:02,823 --> 00:23:08,819
+Sixty six million years ago, an asteroid struck what is now Mexico, ending the age
+
+329
+00:23:08,819 --> 00:23:12,474
+of the dinosaurs and clearing the way for mammals.
+
+330
+00:23:12,474 --> 00:23:18,177
+Had it arrived half an hour earlier or later, striking deep ocean instead, the
+
+331
+00:23:18,177 --> 00:23:22,637
+history of life might have taken a completely different path.
+
+332
+00:23:23,167 --> 00:23:29,312
+Perhaps intelligence is not an inevitable destination of evolution, but a bizarre
+
+333
+00:23:29,312 --> 00:23:30,981
+and improbable detour.
+
+334
+00:23:30,981 --> 00:23:37,203
+Perhaps the galaxy is full of microbial slime, oceans of simple cells on countless
+
+335
+00:23:37,203 --> 00:23:41,300
+worlds, and nothing that will ever look up and wonder.
+
+336
+00:23:41,833 --> 00:23:46,952
+Critics point out that the Rare Earth argument rests on a sample of one.
+
+337
+00:23:46,952 --> 00:23:51,501
+We do not know how many of these conditions are truly necessary.
+
+338
+00:23:51,501 --> 00:23:55,127
+Life elsewhere might find entirely different paths.
+
+339
+00:23:55,127 --> 00:24:00,956
+But if Ward and Brownlee are right, then the silence of the universe has a simple,
+
+340
+00:24:00,956 --> 00:24:03,444
+and profoundly lonely, explanation.
+
+341
+00:24:15,467 --> 00:24:21,396
+In nineteen ninety six, the economist Robin Hanson framed the paradox in a new and
+
+342
+00:24:21,396 --> 00:24:22,336
+chilling way.
+
+343
+00:24:22,867 --> 00:24:29,278
+Imagine all the steps between a lifeless planet and a civilization that spreads
+
+344
+00:24:29,278 --> 00:24:30,658
+across the stars.
+
+345
+00:24:30,658 --> 00:24:31,875
+The right star.
+
+346
+00:24:31,875 --> 00:24:33,255
+The right planet.
+
+347
+00:24:33,255 --> 00:24:34,797
+The origin of life.
+
+348
+00:24:34,797 --> 00:24:36,177
+The complex cell.
+
+349
+00:24:36,177 --> 00:24:37,800
+Sexual reproduction.
+
+350
+00:24:37,800 --> 00:24:39,342
+Multicellular life.
+
+351
+00:24:39,342 --> 00:24:41,209
+Tools and intelligence.
+
+352
+00:24:41,209 --> 00:24:42,101
+Technology.
+
+353
+00:24:42,101 --> 00:24:45,267
+And finally, expansion into the galaxy.
+
+354
+00:24:45,800 --> 00:24:51,531
+Given how many planets exist, and how empty the universe appears, at least one of
+
+355
+00:24:51,531 --> 00:24:54,857
+these steps must be extraordinarily improbable.
+
+356
+00:24:54,857 --> 00:25:00,376
+Somewhere along the path, there is a barrier that almost nothing gets through.
+
+357
+00:25:00,376 --> 00:25:02,781
+Hanson called it the Great Filter.
+
+358
+00:25:03,300 --> 00:25:06,612
+The crucial question is: where is that filter?
+
+359
+00:25:06,612 --> 00:25:08,484
+Is it behind us, or ahead?
+
+360
+00:25:09,033 --> 00:25:15,261
+If the Great Filter is behind us, perhaps at the origin of life, or at the birth of
+
+361
+00:25:15,261 --> 00:25:19,387
+the complex cell, then we are among the rare survivors.
+
+362
+00:25:19,387 --> 00:25:23,363
+We passed a test that nearly every other world fails.
+
+363
+00:25:23,363 --> 00:25:28,240
+The galaxy is empty because almost no one gets as far as we have.
+
+364
+00:25:28,240 --> 00:25:31,241
+And the future could be ours to explore.
+
+365
+00:25:31,767 --> 00:25:37,694
+But if the Great Filter lies ahead of us, then civilizations like ours are common,
+
+366
+00:25:37,694 --> 00:25:42,031
+and something stops all of them before they reach the stars.
+
+367
+00:25:42,031 --> 00:25:42,754
+Every one.
+
+368
+00:25:42,754 --> 00:25:44,055
+Without exception.
+
+369
+00:25:44,600 --> 00:25:46,766
+What could such a filter be?
+
+370
+00:25:46,766 --> 00:25:53,030
+Since the middle of the twentieth century, humanity has lived with the ability to
+
+371
+00:25:53,030 --> 00:25:54,191
+destroy itself.
+
+372
+00:25:54,191 --> 00:25:55,119
+Nuclear war.
+
+373
+00:25:55,119 --> 00:25:56,743
+Engineered pandemics.
+
+374
+00:25:56,743 --> 00:25:58,522
+Runaway climate change.
+
+375
+00:25:58,522 --> 00:26:04,864
+Technologies we do not yet understand, from artificial intelligence to weapons not
+
+376
+00:26:04,864 --> 00:26:05,869
+yet imagined.
+
+377
+00:26:06,400 --> 00:26:12,059
+This is why the philosopher Nick Bostrom once wrote that he hoped our searches for
+
+378
+00:26:12,059 --> 00:26:14,268
+life on Mars would find nothing.
+
+379
+00:26:14,268 --> 00:26:20,065
+If we discovered that simple life had arisen independently on Mars, it would suggest
+
+380
+00:26:20,065 --> 00:26:24,827
+that life starts easily, and that the early steps are not the filter.
+
+381
+00:26:24,827 --> 00:26:29,589
+The barrier would then be more likely to lie somewhere in our future.
+
+382
+00:26:30,133 --> 00:26:36,685
+In Bostrom's view, finding fossils on Mars would be the worst news in the history of
+
+383
+00:26:36,685 --> 00:26:37,387
+humanity.
+
+384
+00:26:37,387 --> 00:26:42,613
+Dead rocks and lifeless sands, by contrast, would lift our spirits.
+
+385
+00:26:43,133 --> 00:26:44,956
+It is a strange thought.
+
+386
+00:26:44,956 --> 00:26:50,881
+Every discovery that makes life in the universe seem easier also makes our own
+
+387
+00:26:50,881 --> 00:26:52,324
+future look darker.
+
+388
+00:26:52,324 --> 00:26:56,957
+And every silence makes us look more special, or more doomed.
+
+389
+00:26:57,500 --> 00:27:00,221
+We do not know where the filter lies.
+
+390
+00:27:00,221 --> 00:27:02,134
+Perhaps there are several.
+
+391
+00:27:02,134 --> 00:27:06,694
+Perhaps it is not a single wall, but a long series of hurdles.
+
+392
+00:27:06,694 --> 00:27:12,284
+But the idea forces us to ask something uncomfortable: are we looking at the
+
+393
+00:27:12,284 --> 00:27:14,417
+universe, or at our own fate?
+
+394
+00:27:26,467 --> 00:27:28,432
+There is a third possibility.
+
+395
+00:27:28,432 --> 00:27:32,227
+Perhaps they are out there, and the silence is a choice.
+
+396
+00:27:32,767 --> 00:27:38,667
+In nineteen seventy three, the astronomer John Ball proposed what he called the Zoo
+
+397
+00:27:38,667 --> 00:27:39,449
+Hypothesis.
+
+398
+00:27:39,449 --> 00:27:45,350
+Perhaps advanced civilizations know about us, but have chosen not to interfere, the
+
+399
+00:27:45,350 --> 00:27:50,397
+way we might watch animals in a nature reserve without disturbing them.
+
+400
+00:27:50,397 --> 00:27:56,297
+Earth might be a protected wilderness, observed but left alone, until we are ready.
+
+401
+00:27:56,833 --> 00:28:00,390
+A far darker version comes from science fiction.
+
+402
+00:28:00,390 --> 00:28:06,540
+In his novel The Dark Forest, the Chinese author Liu Cixin imagined the universe as
+
+403
+00:28:06,540 --> 00:28:09,948
+a forest at night, filled with silent hunters.
+
+404
+00:28:09,948 --> 00:28:12,690
+Every civilization fears every other.
+
+405
+00:28:12,690 --> 00:28:18,692
+Since no one can know another's intentions, and since technology can leap forward
+
+406
+00:28:18,692 --> 00:28:24,545
+unpredictably, the safest strategy is to stay hidden, and to destroy anyone who
+
+407
+00:28:24,545 --> 00:28:25,953
+reveals themselves.
+
+408
+00:28:26,500 --> 00:28:32,266
+In that universe, broadcasting our existence would be the most dangerous thing a
+
+409
+00:28:32,266 --> 00:28:33,924
+young species could do.
+
+410
+00:28:33,924 --> 00:28:39,402
+Some scientists, including Stephen Hawking, have warned against sending loud
+
+411
+00:28:39,402 --> 00:28:44,015
+messages into space before we understand who might be listening.
+
+412
+00:28:44,533 --> 00:28:49,353
+Others suggest the silence comes not from fear, but from indifference.
+
+413
+00:28:49,353 --> 00:28:54,999
+A civilization millions of years older than us might be as different from us as we
+
+414
+00:28:54,999 --> 00:28:55,963
+are from ants.
+
+415
+00:28:55,963 --> 00:28:59,200
+We do not try to communicate with ant colonies.
+
+416
+00:28:59,200 --> 00:29:02,987
+We do not ask their permission when we build a highway.
+
+417
+00:29:03,533 --> 00:29:05,986
+Then there are more exotic ideas.
+
+418
+00:29:05,986 --> 00:29:12,005
+The aestivation hypothesis, proposed by Anders Sandberg and colleagues at Oxford,
+
+419
+00:29:12,005 --> 00:29:15,944
+suggests that advanced civilizations may be sleeping.
+
+420
+00:29:15,944 --> 00:29:22,112
+Computation becomes more efficient as the universe cools, so a patient civilization
+
+421
+00:29:22,112 --> 00:29:28,205
+might simply wait, dormant, for trillions of years, preserving its resources for a
+
+422
+00:29:28,205 --> 00:29:30,435
+colder, more efficient future.
+
+423
+00:29:30,967 --> 00:29:36,934
+The transcension hypothesis suggests that civilizations do not expand outward at
+
+424
+00:29:36,934 --> 00:29:38,127
+all, but inward.
+
+425
+00:29:38,127 --> 00:29:44,392
+As technology advances, they become smaller, denser, more efficient, retreating into
+
+426
+00:29:44,392 --> 00:29:50,284
+compact, perhaps even black hole like environments, where we would never notice
+
+427
+00:29:50,284 --> 00:29:50,657
+them.
+
+428
+00:29:51,200 --> 00:29:57,457
+Some philosophers go further still, wondering if our reality is a simulation, and
+
+429
+00:29:57,457 --> 00:30:00,392
+the silence simply part of its design.
+
+430
+00:30:00,392 --> 00:30:04,640
+These ideas are difficult, perhaps impossible, to test.
+
+431
+00:30:05,167 --> 00:30:07,850
+And there is a more humble explanation.
+
+432
+00:30:07,850 --> 00:30:12,460
+Perhaps they are signaling, but we are not listening the right way.
+
+433
+00:30:12,460 --> 00:30:18,171
+We search for radio, but advanced beings might use lasers, neutrinos, or methods we
+
+434
+00:30:18,171 --> 00:30:19,822
+have not yet discovered.
+
+435
+00:30:19,822 --> 00:30:22,506
+Even our own planet is growing quieter.
+
+436
+00:30:22,506 --> 00:30:28,079
+As we replace powerful television broadcasts with cables, satellites, and digital
+
+437
+00:30:28,079 --> 00:30:31,107
+signals, Earth is becoming harder to detect.
+
+438
+00:30:31,107 --> 00:30:35,097
+A civilization's loud radio age might last only a century.
+
+439
+00:30:35,633 --> 00:30:38,537
+Each of these solutions has a weakness.
+
+440
+00:30:38,537 --> 00:30:44,715
+The Zoo Hypothesis requires every civilization, without exception, to obey the same
+
+441
+00:30:44,715 --> 00:30:46,725
+rule for billions of years.
+
+442
+00:30:46,725 --> 00:30:51,043
+The Dark Forest requires all of them to be equally afraid.
+
+443
+00:30:51,043 --> 00:30:57,222
+A single exception, one curious, careless, or expansionist species, would be enough
+
+444
+00:30:57,222 --> 00:30:58,636
+to fill the galaxy.
+
+445
+00:30:58,636 --> 00:31:00,423
+And yet, we see nothing.
+
+446
+00:31:12,467 --> 00:31:16,947
+Perhaps the answer is not about space at all, but about time.
+
+447
+00:31:17,467 --> 00:31:20,287
+The early universe was a hostile place.
+
+448
+00:31:20,287 --> 00:31:24,987
+The first stars contained almost nothing but hydrogen and helium.
+
+449
+00:31:24,987 --> 00:31:30,845
+The heavier elements needed for rocky planets and for life, carbon, oxygen, iron,
+
+450
+00:31:30,845 --> 00:31:35,183
+had to be forged inside stars and scattered by their deaths.
+
+451
+00:31:35,183 --> 00:31:41,041
+It took billions of years for galaxies to become rich enough in these elements to
+
+452
+00:31:41,041 --> 00:31:42,704
+build worlds like ours.
+
+453
+00:31:43,233 --> 00:31:49,439
+Violent events like gamma ray bursts, the most powerful explosions known, may have
+
+454
+00:31:49,439 --> 00:31:53,752
+regularly sterilized large parts of galaxies in the past.
+
+455
+00:31:53,752 --> 00:31:59,958
+Some researchers suggest that only in the last few billion years has the Milky Way
+
+456
+00:31:59,958 --> 00:32:04,801
+become calm enough for complex life to survive for long periods.
+
+457
+00:32:05,333 --> 00:32:07,709
+If so, we may be among the first.
+
+458
+00:32:07,709 --> 00:32:09,796
+Not alone forever, but early.
+
+459
+00:32:09,796 --> 00:32:13,611
+One of the first lights to switch on in a dark house.
+
+460
+00:32:14,133 --> 00:32:20,181
+In two thousand twenty one, Robin Hanson and his colleagues developed this idea into
+
+461
+00:32:20,181 --> 00:32:23,132
+what they called the Grabby Aliens model.
+
+462
+00:32:23,132 --> 00:32:24,932
+Their argument is subtle.
+
+463
+00:32:24,932 --> 00:32:30,476
+Some civilizations, they suggest, eventually expand rapidly, at a significant
+
+464
+00:32:30,476 --> 00:32:35,299
+fraction of the speed of light, transforming everything they reach.
+
+465
+00:32:35,299 --> 00:32:40,843
+Once a region of space has been claimed, no new civilization can arise there.
+
+466
+00:32:41,367 --> 00:32:46,911
+This means that anyone who finds themselves still able to look up at a natural,
+
+467
+00:32:46,911 --> 00:32:48,876
+untouched sky must be early.
+
+468
+00:32:48,876 --> 00:32:54,772
+If we had arisen later, the grabby civilizations would already be here, and we would
+
+469
+00:32:54,772 --> 00:32:56,947
+not exist to wonder about them.
+
+470
+00:32:56,947 --> 00:33:02,772
+By their calculations, we may meet such civilizations hundreds of millions of years
+
+471
+00:33:02,772 --> 00:33:03,404
+from now.
+
+472
+00:33:03,933 --> 00:33:10,238
+In two thousand eighteen, researchers at Oxford, Anders Sandberg, Eric Drexler, and
+
+473
+00:33:10,238 --> 00:33:12,669
+Toby Ord, took another approach.
+
+474
+00:33:12,669 --> 00:33:18,442
+They noticed that most people plug single, best guess numbers into the Drake
+
+475
+00:33:18,442 --> 00:33:19,126
+Equation.
+
+476
+00:33:19,126 --> 00:33:25,203
+But our real uncertainty about some factors spans dozens of orders of magnitude.
+
+477
+00:33:25,733 --> 00:33:31,568
+When they properly accounted for that uncertainty, the picture changed dramatically.
+
+478
+00:33:31,568 --> 00:33:37,264
+By their estimate, there was a substantial probability, quite possibly better than
+
+479
+00:33:37,264 --> 00:33:42,543
+even, that we are the only intelligent civilization in the entire observable
+
+480
+00:33:42,543 --> 00:33:43,168
+universe.
+
+481
+00:33:43,168 --> 00:33:46,919
+The paradox, they argued, may not be a paradox at all.
+
+482
+00:33:46,919 --> 00:33:51,781
+The silence may simply be what an uncertain universe should look like.
+
+483
+00:33:52,300 --> 00:33:53,838
+Distance matters too.
+
+484
+00:33:53,838 --> 00:33:57,864
+The Milky Way is a hundred thousand light years across.
+
+485
+00:33:57,864 --> 00:34:03,429
+Even if a thousand civilizations existed right now, they would on average be
+
+486
+00:34:03,429 --> 00:34:06,577
+separated by many thousands of light years.
+
+487
+00:34:06,577 --> 00:34:12,141
+A signal we send today might not be answered for tens of thousands of years.
+
+488
+00:34:12,141 --> 00:34:17,047
+Civilizations could rise and fall without ever overlapping in time.
+
+489
+00:34:17,567 --> 00:34:23,203
+Like two fireflies blinking in a vast field, flashing at different moments, never
+
+490
+00:34:23,203 --> 00:34:25,012
+seeing each other's light.
+
+491
+00:34:37,033 --> 00:34:42,811
+On October nineteenth, two thousand seventeen, a telescope in Hawaii spotted
+
+492
+00:34:42,811 --> 00:34:46,004
+something racing through the solar system.
+
+493
+00:34:46,004 --> 00:34:49,500
+It was moving too fast to be bound to the Sun.
+
+494
+00:34:49,500 --> 00:34:52,237
+It had come from interstellar space.
+
+495
+00:34:52,237 --> 00:34:58,623
+It was named Oumuamua, a Hawaiian word meaning a messenger from afar arriving first.
+
+496
+00:34:59,167 --> 00:35:00,857
+Oumuamua was strange.
+
+497
+00:35:00,857 --> 00:35:06,895
+It appeared to be highly elongated, perhaps like a cigar or a flat pancake.
+
+498
+00:35:06,895 --> 00:35:11,242
+It showed no visible tail of gas or dust like a comet.
+
+499
+00:35:11,242 --> 00:35:17,762
+And yet, as it left, it accelerated slightly, as if something were gently pushing
+
+500
+00:35:17,762 --> 00:35:18,004
+it.
+
+501
+00:35:18,533 --> 00:35:25,203
+Harvard astronomer Avi Loeb suggested that Oumuamua might be an artificial object,
+
+502
+00:35:25,203 --> 00:35:28,457
+perhaps a light sail pushed by sunlight.
+
+503
+00:35:28,457 --> 00:35:35,126
+Most astronomers disagreed, proposing natural explanations, such as gases escaping
+
+504
+00:35:35,126 --> 00:35:37,322
+invisibly from an icy body.
+
+505
+00:35:37,322 --> 00:35:41,552
+The object was gone before anyone could look closer.
+
+506
+00:35:42,100 --> 00:35:48,269
+In two thousand nineteen, a second interstellar visitor arrived, the comet Borisov,
+
+507
+00:35:48,269 --> 00:35:50,128
+a clearly natural object.
+
+508
+00:35:50,128 --> 00:35:56,223
+And in July of two thousand twenty five, a third: an object named three I ATLAS, a
+
+509
+00:35:56,223 --> 00:36:02,244
+large comet, possibly older than our own solar system, swept in from the galaxy's
+
+510
+00:36:02,244 --> 00:36:03,656
+ancient thick disk.
+
+511
+00:36:03,656 --> 00:36:08,785
+Telescopes and spacecraft across the solar system turned to study it.
+
+512
+00:36:08,785 --> 00:36:12,799
+Radio searches, as always, found no artificial signal.
+
+513
+00:36:13,333 --> 00:36:19,325
+In two thousand fifteen, citizen scientists studying Kepler data found a star, KIC
+
+514
+00:36:19,325 --> 00:36:25,097
+eight four six two eight five two, later nicknamed Tabby's Star, that dimmed in
+
+515
+00:36:25,097 --> 00:36:29,700
+bizarre, irregular ways, sometimes by more than twenty percent.
+
+516
+00:36:29,700 --> 00:36:33,719
+For a time, some speculated about alien megastructures.
+
+517
+00:36:33,719 --> 00:36:39,637
+Further observations showed that the dimming changed with the color of light, the
+
+518
+00:36:39,637 --> 00:36:42,560
+signature of dust, not solid structures.
+
+519
+00:36:43,100 --> 00:36:48,773
+In two thousand twenty four, a project called Hephaistos searched millions of stars
+
+520
+00:36:48,773 --> 00:36:51,986
+for the infrared glow of partial Dyson spheres.
+
+521
+00:36:51,986 --> 00:36:57,112
+It found seven candidates, all small red dwarf stars with unexplained heat.
+
+522
+00:36:57,112 --> 00:37:02,717
+Follow up work suggested that at least some of them could be explained by distant,
+
+523
+00:37:02,717 --> 00:37:06,134
+dusty background galaxies hiding behind the stars.
+
+524
+00:37:06,134 --> 00:37:08,663
+But the search itself marked a shift.
+
+525
+00:37:08,663 --> 00:37:14,268
+Astronomers now look not only for messages, but for the footprints of engineering.
+
+526
+00:37:14,800 --> 00:37:19,080
+Meanwhile, the hunt for simple life has moved into a new era.
+
+527
+00:37:19,080 --> 00:37:24,903
+In two thousand twenty three and again in two thousand twenty five, a team from the
+
+528
+00:37:24,903 --> 00:37:30,726
+University of Cambridge used the James Webb Space Telescope to study the atmosphere
+
+529
+00:37:30,726 --> 00:37:36,198
+of K2 eighteen b, a planet about one hundred and twenty four light years away.
+
+530
+00:37:36,198 --> 00:37:42,092
+They reported hints of dimethyl sulfide, a molecule that on Earth is produced mainly
+
+531
+00:37:42,092 --> 00:37:45,179
+by living organisms, such as ocean plankton.
+
+532
+00:37:45,700 --> 00:37:48,999
+The announcement made headlines around the world.
+
+533
+00:37:48,999 --> 00:37:54,182
+But other teams soon reanalyzed the data, and found the evidence was far from
+
+534
+00:37:54,182 --> 00:37:54,923
+conclusive.
+
+535
+00:37:54,923 --> 00:38:00,578
+The signal fell well short of the standard required for a discovery, and some argued
+
+536
+00:38:00,578 --> 00:38:04,146
+that dimethyl sulfide could be produced without life.
+
+537
+00:38:04,146 --> 00:38:07,849
+The debate continues, and more observations are needed.
+
+538
+00:38:07,849 --> 00:38:13,234
+But for the first time in history, we are close to being able to read the air of
+
+539
+00:38:13,234 --> 00:38:14,244
+distant worlds.
+
+540
+00:38:14,767 --> 00:38:16,509
+And then there is Mars.
+
+541
+00:38:16,509 --> 00:38:22,719
+In July two thousand twenty four, NASA's Perseverance rover drilled into a reddish
+
+542
+00:38:22,719 --> 00:38:28,021
+rock nicknamed Cheyava Falls, in an ancient riverbed in Jezero Crater.
+
+543
+00:38:28,021 --> 00:38:34,383
+The rock was speckled with tiny spots, nicknamed leopard spots, rimmed with minerals
+
+544
+00:38:34,383 --> 00:38:38,852
+that on Earth are often associated with microbial activity.
+
+545
+00:38:39,400 --> 00:38:44,693
+In September two thousand twenty five, after a year of analysis, scientists
+
+546
+00:38:44,693 --> 00:38:47,939
+published their results in the journal Nature.
+
+547
+00:38:47,939 --> 00:38:53,020
+The sample, named Sapphire Canyon, contains what NASA called a potential
+
+548
+00:38:53,020 --> 00:38:58,878
+biosignature, the most compelling candidate for ancient life the mission has found.
+
+549
+00:38:58,878 --> 00:39:02,195
+Non biological explanations are still possible.
+
+550
+00:39:02,195 --> 00:39:07,770
+The sample awaits a journey back to Earth, where laboratories could study it in
+
+551
+00:39:07,770 --> 00:39:08,264
+detail.
+
+552
+00:39:08,800 --> 00:39:14,856
+Elsewhere, scientists continue to debate a possible detection of phosphine in the
+
+553
+00:39:14,856 --> 00:39:18,520
+clouds of Venus, reported in two thousand twenty.
+
+554
+00:39:18,520 --> 00:39:24,652
+Others look to the hidden oceans of Europa and Enceladus, moons where liquid water
+
+555
+00:39:24,652 --> 00:39:30,783
+lies beneath miles of ice, warmed from within, and where jets of water vapor spray
+
+556
+00:39:30,783 --> 00:39:31,605
+into space.
+
+557
+00:39:32,133 --> 00:39:36,125
+None of these clues has yet proven that we are not alone.
+
+558
+00:39:36,125 --> 00:39:41,938
+But they show that the question is moving, for the first time, from philosophy into
+
+559
+00:39:41,938 --> 00:39:42,779
+measurement.
+
+560
+00:39:54,800 --> 00:39:58,233
+We are living at the beginning of a revolution.
+
+561
+00:39:58,233 --> 00:40:04,368
+The James Webb Space Telescope is already measuring the atmospheres of rocky planets
+
+562
+00:40:04,368 --> 00:40:05,829
+around nearby stars.
+
+563
+00:40:06,367 --> 00:40:12,138
+In the Atacama Desert of Chile, astronomers are building the Extremely Large
+
+564
+00:40:12,138 --> 00:40:17,832
+Telescope, with a mirror thirty nine meters across, larger than any optical
+
+565
+00:40:17,832 --> 00:40:19,427
+telescope ever built.
+
+566
+00:40:19,427 --> 00:40:25,653
+It may be able to directly image rocky planets around the closest stars and search
+
+567
+00:40:25,653 --> 00:40:28,767
+their air for oxygen, water, and methane.
+
+568
+00:40:29,300 --> 00:40:35,549
+The Vera Rubin Observatory has begun a ten year survey of the entire southern sky,
+
+569
+00:40:35,549 --> 00:40:41,341
+watching for anything that moves or changes, including the next interstellar
+
+570
+00:40:41,341 --> 00:40:41,951
+visitor.
+
+571
+00:40:42,500 --> 00:40:48,605
+The Square Kilometre Array, being built in Australia and South Africa, will be the
+
+572
+00:40:48,605 --> 00:40:54,636
+largest radio observatory on Earth, sensitive enough to detect airport radar from
+
+573
+00:40:54,636 --> 00:40:57,241
+planets dozens of light years away.
+
+574
+00:40:57,767 --> 00:41:03,834
+NASA's Europa Clipper is already on its way to Jupiter's ocean moon, scheduled to
+
+575
+00:41:03,834 --> 00:41:06,081
+arrive in two thousand thirty.
+
+576
+00:41:06,081 --> 00:41:12,074
+Later this decade, the Dragonfly mission is planned to launch to Titan, Saturn's
+
+577
+00:41:12,074 --> 00:41:17,842
+largest moon, a world of methane lakes and organic chemistry, where a nuclear
+
+578
+00:41:17,842 --> 00:41:20,913
+powered drone will fly from site to site.
+
+579
+00:41:21,433 --> 00:41:27,593
+And NASA is planning a future flagship, the Habitable Worlds Observatory, a space
+
+580
+00:41:27,593 --> 00:41:33,525
+telescope designed with one primary goal: to directly image Earth like planets
+
+581
+00:41:33,525 --> 00:41:39,076
+around Sun like stars, and to search their atmospheres for signs of life.
+
+582
+00:41:39,600 --> 00:41:44,997
+For the first time, humanity is building the tools that could answer Fermi's
+
+583
+00:41:44,997 --> 00:41:47,412
+question within our own lifetimes.
+
+584
+00:41:47,412 --> 00:41:49,968
+Not with speculation, but with data.
+
+585
+00:41:50,500 --> 00:41:53,124
+And whatever we find, it will change us.
+
+586
+00:42:05,167 --> 00:42:11,274
+On February fourteenth, nineteen ninety, at the request of Carl Sagan, the Voyager
+
+587
+00:42:11,274 --> 00:42:17,530
+one spacecraft turned its camera back toward home, from about six billion kilometers
+
+588
+00:42:17,530 --> 00:42:17,902
+away.
+
+589
+00:42:17,902 --> 00:42:24,084
+In the resulting image, Earth is barely a single pixel, a tiny speck suspended in a
+
+590
+00:42:24,084 --> 00:42:26,095
+scattered beam of sunlight.
+
+591
+00:42:26,633 --> 00:42:29,003
+Sagan called it a pale blue dot.
+
+592
+00:42:29,003 --> 00:42:34,556
+Everyone you have ever loved, every person who ever lived, every war, every
+
+593
+00:42:34,556 --> 00:42:39,220
+discovery, every hope, all of it happened on that mote of dust.
+
+594
+00:42:39,767 --> 00:42:41,356
+The writer Arthur C.
+
+595
+00:42:41,356 --> 00:42:45,967
+Clarke is often quoted as saying: two possibilities exist.
+
+596
+00:42:45,967 --> 00:42:50,021
+Either we are alone in the universe, or we are not.
+
+597
+00:42:50,021 --> 00:42:52,247
+Both are equally terrifying.
+
+598
+00:42:52,767 --> 00:42:58,284
+If we are not alone, then somewhere out there are minds shaped by other worlds,
+
+599
+00:42:58,284 --> 00:43:00,868
+other histories, other ways of being.
+
+600
+00:43:00,868 --> 00:43:03,242
+Perhaps one day we will hear them.
+
+601
+00:43:03,242 --> 00:43:06,036
+Perhaps one day we will understand them.
+
+602
+00:43:06,567 --> 00:43:11,703
+And if we are alone, then something rare and precious has happened here.
+
+603
+00:43:11,703 --> 00:43:17,482
+In all the vastness of space and time, the universe has, in this one small place,
+
+604
+00:43:17,482 --> 00:43:19,123
+become aware of itself.
+
+605
+00:43:19,123 --> 00:43:24,759
+Then every life, every species, every forest and ocean on this planet carries a
+
+606
+00:43:24,759 --> 00:43:27,256
+weight almost too large to imagine.
+
+607
+00:43:27,256 --> 00:43:32,892
+If we are the only ones, then we are the universe's only chance to know itself.
+
+608
+00:43:33,433 --> 00:43:37,802
+Either way, the answer calls us to the same responsibility.
+
+609
+00:43:37,802 --> 00:43:38,616
+To survive.
+
+610
+00:43:38,616 --> 00:43:40,837
+To protect this fragile world.
+
+611
+00:43:40,837 --> 00:43:43,503
+To keep looking, and keep listening.
+
+612
+00:43:44,033 --> 00:43:50,018
+More than seventy five years ago, Enrico Fermi asked a simple question over lunch.
+
+613
+00:43:50,018 --> 00:43:52,353
+We still do not know the answer.
+
+614
+00:43:54,900 --> 00:43:58,292
+But we are, at last, close enough to search for it.
+
+615
+00:44:00,833 --> 00:44:02,775
+So, where is everybody?
+
+616
+00:44:05,300 --> 00:44:08,521
+Perhaps they are asking the same question about us.
+
