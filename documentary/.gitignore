@@ -1,0 +1,12 @@
+node_modules/
+out/
+raw/
+build/
+public/footage/
+public/narration/
+public/music/
+public/music_n/
+public/narration_n/
+public/fx/
+public/images/
+__pycache__/

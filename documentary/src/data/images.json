@@ -1,0 +1,285 @@
+[
+ {
+  "name": "arecibo_aerial",
+  "file": "images/arecibo_aerial.jpg",
+  "tags": [
+   "arecibo"
+  ],
+  "credit": "NAIC / Wikimedia Commons (public domain)",
+  "w": 1024,
+  "h": 768,
+  "archival": false
+ },
+ {
+  "name": "arecibo_satellite",
+  "file": "images/arecibo_satellite.jpg",
+  "tags": [
+   "arecibo"
+  ],
+  "credit": "Wikimedia Commons (public domain)",
+  "w": 1165,
+  "h": 774,
+  "archival": false
+ },
+ {
+  "name": "black_marble",
+  "file": "images/black_marble.jpg",
+  "tags": [
+   "earth_night_lights"
+  ],
+  "credit": "NASA",
+  "w": 1920,
+  "h": 1080,
+  "archival": false
+ },
+ {
+  "name": "bright_angel_360",
+  "file": "images/bright_angel_360.jpg",
+  "tags": [
+   "mars_surface"
+  ],
+  "credit": "NASA",
+  "w": 3200,
+  "h": 782,
+  "archival": false
+ },
+ {
+  "name": "cheyava_selfie",
+  "file": "images/cheyava_selfie.jpg",
+  "tags": [
+   "mars_rover"
+  ],
+  "credit": "NASA",
+  "w": 3200,
+  "h": 2272,
+  "archival": false
+ },
+ {
+  "name": "clipper_launch",
+  "file": "images/clipper_launch.jpg",
+  "tags": [
+   "europa_clipper"
+  ],
+  "credit": "NASA",
+  "w": 3000,
+  "h": 2000,
+  "archival": false
+ },
+ {
+  "name": "earth_blue_marble",
+  "file": "images/earth_blue_marble.jpg",
+  "tags": [
+   "earth_from_space"
+  ],
+  "credit": "NASA",
+  "w": 3200,
+  "h": 3200,
+  "archival": false
+ },
+ {
+  "name": "europa_surface",
+  "file": "images/europa_surface.jpg",
+  "tags": [
+   "europa_clipper"
+  ],
+  "credit": "NASA",
+  "w": 2300,
+  "h": 1700,
+  "archival": false
+ },
+ {
+  "name": "europa_view_art",
+  "file": "images/europa_view_art.jpg",
+  "tags": [
+   "europa_clipper"
+  ],
+  "credit": "NASA",
+  "w": 3200,
+  "h": 1800,
+  "archival": false
+ },
+ {
+  "name": "fermi_portrait",
+  "file": "images/fermi_portrait.jpg",
+  "tags": [
+   "fermi_portrait"
+  ],
+  "credit": "Department of Energy / Wikimedia Commons (public domain)",
+  "w": 2368,
+  "h": 2927,
+  "archival": true
+ },
+ {
+  "name": "golden_record",
+  "file": "images/golden_record.jpg",
+  "tags": [
+   "voyager"
+  ],
+  "credit": "NASA",
+  "w": 981,
+  "h": 552,
+  "archival": false
+ },
+ {
+  "name": "golden_record_prep",
+  "file": "images/golden_record_prep.jpg",
+  "tags": [
+   "voyager"
+  ],
+  "credit": "NASA",
+  "w": 1760,
+  "h": 2227,
+  "archival": false
+ },
+ {
+  "name": "jezero_delta_pan",
+  "file": "images/jezero_delta_pan.jpg",
+  "tags": [
+   "mars_surface"
+  ],
+  "credit": "NASA",
+  "w": 2916,
+  "h": 818,
+  "archival": false
+ },
+ {
+  "name": "jezero_lake_art",
+  "file": "images/jezero_lake_art.jpg",
+  "tags": [
+   "mars_surface"
+  ],
+  "credit": "NASA",
+  "w": 1920,
+  "h": 1080,
+  "archival": false
+ },
+ {
+  "name": "k2_18b_art",
+  "file": "images/k2_18b_art.jpg",
+  "tags": [
+   "k2_18b"
+  ],
+  "credit": "ESA/Webb, NASA, CSA, J. Olmsted (STScI) (CC BY 4.0)",
+  "w": 3200,
+  "h": 1800,
+  "archival": false
+ },
+ {
+  "name": "k2_18b_spectrum",
+  "file": "images/k2_18b_spectrum.jpg",
+  "tags": [
+   "k2_18b"
+  ],
+  "credit": "ESA/Webb, NASA, CSA, J. Olmsted (STScI) (CC BY 4.0)",
+  "w": 3200,
+  "h": 1800,
+  "archival": false
+ },
+ {
+  "name": "kepler_art",
+  "file": "images/kepler_art.jpg",
+  "tags": [
+   "kepler_art"
+  ],
+  "credit": "NASA",
+  "w": 1463,
+  "h": 900,
+  "archival": false
+ },
+ {
+  "name": "kepler_art2",
+  "file": "images/kepler_art2.jpg",
+  "tags": [
+   "kepler_art"
+  ],
+  "credit": "NASA",
+  "w": 1140,
+  "h": 2025,
+  "archival": false
+ },
+ {
+  "name": "leopard_spots",
+  "file": "images/leopard_spots.jpg",
+  "tags": [
+   "mars_rover",
+   "mars_surface"
+  ],
+  "credit": "NASA",
+  "w": 1648,
+  "h": 1200,
+  "archival": false
+ },
+ {
+  "name": "oumuamua_nasa",
+  "file": "images/oumuamua_nasa.jpg",
+  "tags": [
+   "oumuamua_art"
+  ],
+  "credit": "NASA",
+  "w": 3200,
+  "h": 1800,
+  "archival": false
+ },
+ {
+  "name": "pale_blue_dot",
+  "file": "images/pale_blue_dot.jpg",
+  "tags": [
+   "pale_blue_dot"
+  ],
+  "credit": "NASA",
+  "w": 3200,
+  "h": 3166,
+  "archival": false
+ },
+ {
+  "name": "plaque_1972",
+  "file": "images/plaque_1972.jpg",
+  "tags": [],
+  "credit": "NASA",
+  "w": 3072,
+  "h": 2048,
+  "archival": false
+ },
+ {
+  "name": "tabbys_star",
+  "file": "images/tabbys_star.jpg",
+  "tags": [
+   "kepler_art"
+  ],
+  "credit": "NASA/JPL-Caltech",
+  "w": 3200,
+  "h": 1800,
+  "archival": false
+ },
+ {
+  "name": "trappist_concept",
+  "file": "images/trappist_concept.jpg",
+  "tags": [
+   "trappist_art"
+  ],
+  "credit": "NASA",
+  "w": 1600,
+  "h": 900,
+  "archival": false
+ },
+ {
+  "name": "webb_first_images",
+  "file": "images/webb_first_images.jpg",
+  "tags": [],
+  "credit": "NASA",
+  "w": 3200,
+  "h": 2032,
+  "archival": false
+ },
+ {
+  "name": "webb_mirror",
+  "file": "images/webb_mirror.jpg",
+  "tags": [
+   "jwst"
+  ],
+  "credit": "NASA",
+  "w": 3200,
+  "h": 2473,
+  "archival": false
+ }
+]

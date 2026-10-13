@@ -1,0 +1,926 @@
+[
+ {
+  "name": "mw_vlt_night",
+  "tags": [
+   "milkyway_timelapse",
+   "stars_drift"
+  ],
+  "eso": "ut4andmilkywaytimelapse",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/ut4andmilkywaytimelapse.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/mw_vlt_night.m4v",
+  "duration": 27.608345
+ },
+ {
+  "name": "mw_paranal_night",
+  "tags": [
+   "milkyway_timelapse",
+   "stars_drift"
+  ],
+  "eso": "p12paranal",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/p12paranal.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/mw_paranal_night.m4v",
+  "duration": 60.533333
+ },
+ {
+  "name": "mw_ut34",
+  "tags": [
+   "milkyway_timelapse",
+   "stars_drift"
+  ],
+  "eso": "ut3and4timelapse",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/ut3and4timelapse.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/mw_ut34.m4v",
+  "duration": 30.255011
+ },
+ {
+  "name": "mw_chajnantor",
+  "tags": [
+   "stars_drift",
+   "radio_telescope_night"
+  ],
+  "eso": "almatimelapse12i",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/almatimelapse12i.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/mw_chajnantor.mp4",
+  "duration": 19.370667
+ },
+ {
+  "name": "mw_lasilla",
+  "tags": [
+   "telescope_observatory",
+   "stars_drift"
+  ],
+  "eso": "lasillatimelapsegeneralview",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/lasillatimelapsegeneralview.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/mw_lasilla.m4v",
+  "duration": 61.346667
+ },
+ {
+  "name": "alma_magellanic",
+  "tags": [
+   "radio_telescope_night",
+   "radio_telescope_array"
+  ],
+  "eso": "almatimelapse12j",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/almatimelapse12j.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/alma_magellanic.mp4",
+  "duration": 17.642667
+ },
+ {
+  "name": "alma_4ant",
+  "tags": [
+   "radio_telescope_array",
+   "radio_telescope_night"
+  ],
+  "eso": "alma4anttimelapse1",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/alma4anttimelapse1.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/alma_4ant.m4v",
+  "duration": 49.573333
+ },
+ {
+  "name": "alma_4ant2",
+  "tags": [
+   "radio_telescope_array"
+  ],
+  "eso": "alma4anttimelapse2",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/alma4anttimelapse2.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/alma_4ant2.m4v",
+  "duration": 54.821678
+ },
+ {
+  "name": "alma_12e",
+  "tags": [
+   "radio_telescope_array",
+   "radio_telescope_night"
+  ],
+  "eso": "almatimelapse12e",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/almatimelapse12e.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/alma_12e.mp4",
+  "duration": 13.248
+ },
+ {
+  "name": "zoom_ngc346",
+  "tags": [
+   "galaxy_zoom",
+   "nebula_dust"
+  ],
+  "eso": "eso1008a",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/eso1008a.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/zoom_ngc346.m4v",
+  "duration": 56.215011
+ },
+ {
+  "name": "zoom_cone",
+  "tags": [
+   "galaxy_zoom",
+   "nebula_dust"
+  ],
+  "eso": "eso2215a",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2215a.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/zoom_cone.mp4",
+  "duration": 50.026667
+ },
+ {
+  "name": "zoom_sgra",
+  "tags": [
+   "galaxy_zoom",
+   "black_hole"
+  ],
+  "eso": "eso2208-eht-mwb",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2208-eht-mwb.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/zoom_sgra.mp4",
+  "duration": 52.629333
+ },
+ {
+  "name": "nebula_3d_ngc6164",
+  "tags": [
+   "nebula_dust"
+  ],
+  "eso": "eso2407d",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2407d.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/nebula_3d_ngc6164.mp4",
+  "duration": 13.077333
+ },
+ {
+  "name": "nebula_3d_chicken",
+  "tags": [
+   "nebula_dust"
+  ],
+  "eso": "eso2320b",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2320b.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/nebula_3d_chicken.mp4",
+  "duration": 11.946667
+ },
+ {
+  "name": "orion_zoom",
+  "tags": [
+   "nebula_dust",
+   "deep_field"
+  ],
+  "eso": "eso1006b",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/eso1006b.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/orion_zoom.m4v",
+  "duration": 56.215011
+ },
+ {
+  "name": "proxima_art",
+  "tags": [
+   "exoplanet_art",
+   "habitable_zone"
+  ],
+  "eso": "eso1629b",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1629b.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/proxima_art.mp4",
+  "duration": 32.085333
+ },
+ {
+  "name": "lhs1140_trip",
+  "tags": [
+   "exoplanet_art",
+   "habitable_zone"
+  ],
+  "eso": "eso1712a",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1712a.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/lhs1140_trip.mp4",
+  "duration": 43.12
+ },
+ {
+  "name": "l9859_flyto",
+  "tags": [
+   "exoplanet_art",
+   "habitable_zone"
+  ],
+  "eso": "eso2112e",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2112e.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/l9859_flyto.mp4",
+  "duration": 20.010667
+ },
+ {
+  "name": "trappist_fly",
+  "tags": [
+   "trappist_art",
+   "exoplanet_art"
+  ],
+  "eso": "eso1706d",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1706d.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/trappist_fly.mp4",
+  "duration": 163.16
+ },
+ {
+  "name": "trappist_orbits",
+  "tags": [
+   "trappist_art"
+  ],
+  "eso": "eso1706g",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1706g.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/trappist_orbits.mp4",
+  "duration": 26.282667
+ },
+ {
+  "name": "trappist_surface",
+  "tags": [
+   "trappist_art",
+   "exoplanet_art"
+  ],
+  "eso": "eso1706i",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1706i.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/trappist_surface.mp4",
+  "duration": 15.32
+ },
+ {
+  "name": "trappist_f_view",
+  "tags": [
+   "trappist_art",
+   "habitable_zone"
+  ],
+  "eso": "eso1706h",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1706h.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/trappist_f_view.mp4",
+  "duration": 33.130667
+ },
+ {
+  "name": "trappist_star",
+  "tags": [
+   "trappist_art",
+   "exoplanet_art"
+  ],
+  "eso": "eso1615c",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1615c.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/trappist_star.mp4",
+  "duration": 22.08
+ },
+ {
+  "name": "oumuamua_art",
+  "tags": [
+   "oumuamua_art"
+  ],
+  "eso": "eso1737d",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1737d.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/oumuamua_art.mp4",
+  "duration": 14.08
+ },
+ {
+  "name": "oumuamua_path",
+  "tags": [
+   "oumuamua_art"
+  ],
+  "eso": "eso1737b",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1737b.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/oumuamua_path.mp4",
+  "duration": 79.082667
+ },
+ {
+  "name": "oumuamua_gas",
+  "tags": [
+   "oumuamua_art"
+  ],
+  "eso": "eso1820c",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1820c.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/oumuamua_gas.mp4",
+  "duration": 28.08
+ },
+ {
+  "name": "atlas_timelapse",
+  "tags": [
+   "comet_atlas"
+  ],
+  "eso": "eso2608b",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2608b.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/atlas_timelapse.mp4",
+  "duration": 15.829333
+ },
+ {
+  "name": "borisov_surface",
+  "tags": [
+   "comet_atlas"
+  ],
+  "eso": "eso2106c",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2106c.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/borisov_surface.mp4",
+  "duration": 44.608
+ },
+ {
+  "name": "borisov_orbit",
+  "tags": [
+   "comet_atlas"
+  ],
+  "eso": "eso2106b",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2106b.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/borisov_orbit.mp4",
+  "duration": 34.410667
+ },
+ {
+  "name": "venus_zoom",
+  "tags": [
+   "venus"
+  ],
+  "eso": "eso2015b",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2015b.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/venus_zoom.mp4",
+  "duration": 36.074667
+ },
+ {
+  "name": "svs_earth_spin",
+  "tags": [
+   "earth_from_space",
+   "earth_night_lights"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005570/Earth_wAtmos_spin_02_1080p60.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005570/Earth_wAtmos_spin_02_1080p60.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_earth_spin.mp4",
+  "duration": 100.016667
+ },
+ {
+  "name": "svs_earth_night",
+  "tags": [
+   "earth_night_lights"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030000/a030082/viirs_dnb_night_lights_rotating_earth_1080p.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a030000/a030000/a030082/viirs_dnb_night_lights_rotating_earth_1080p.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_earth_night.mp4",
+  "duration": 30.033333
+ },
+ {
+  "name": "svs_milkyway",
+  "tags": [
+   "galaxy_rotation",
+   "galaxy_zoom"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013155/milky_way_HQ.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013155/milky_way_HQ.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_milkyway.mp4",
+  "duration": 10.01
+ },
+ {
+  "name": "svs_kepler_region",
+  "tags": [
+   "kepler_art",
+   "galaxy_rotation"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013155/milky_way_w_kepler_region_HQ.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013155/milky_way_w_kepler_region_HQ.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_kepler_region.mp4",
+  "duration": 10.01
+ },
+ {
+  "name": "svs_voyager_pullout",
+  "tags": [
+   "voyager",
+   "pale_blue_dot"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013155/voyager_location_pull_out_from_solar_system_HQ.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013155/voyager_location_pull_out_from_solar_system_HQ.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_voyager_pullout.mp4",
+  "duration": 13.388375
+ },
+ {
+  "name": "svs_heliosphere",
+  "tags": [
+   "voyager"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013155/heliosphere_wo_labels_HQ.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013155/heliosphere_wo_labels_HQ.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_heliosphere.mp4",
+  "duration": 23.815458
+ },
+ {
+  "name": "svs_voyager_edge",
+  "tags": [
+   "voyager",
+   "pale_blue_dot"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013500/a013544/12639_EdgeofSolarSystem_Final_2997fps_v02_high.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a013500/a013544/12639_EdgeofSolarSystem_Final_2997fps_v02_high.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_voyager_edge.mp4",
+  "duration": 56.981769
+ },
+ {
+  "name": "svs_alpha_cen",
+  "tags": [
+   "exoplanet_art",
+   "habitable_zone",
+   "stars_drift"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020377/Shot_3_H264_notext.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020377/Shot_3_H264_notext.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_alpha_cen.mp4",
+  "duration": 13.179833
+ },
+ {
+  "name": "svs_alpha_cen2",
+  "tags": [
+   "exoplanet_art"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020377/Shot_1-2_H264_notext.mov",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020377/Shot_1-2_H264_notext.mov",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_alpha_cen2.mov",
+  "duration": 13.179833
+ },
+ {
+  "name": "svs_galaxies_fly",
+  "tags": [
+   "deep_field",
+   "galaxy_zoom"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014950/14950_Galaxies_FlyThrough_1080.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014950/14950_Galaxies_FlyThrough_1080.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_galaxies_fly.mp4",
+  "duration": 39.966667
+ },
+ {
+  "name": "svs_openuniverse",
+  "tags": [
+   "deep_field"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014749/OpenUniverseFullZoom_4k_Good.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014749/OpenUniverseFullZoom_4k_Good.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_openuniverse.mp4",
+  "duration": 42.4424
+ },
+ {
+  "name": "svs_supernova",
+  "tags": [
+   "supernova"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020400/a020413/SN_HQ_Full_1080_V001.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020400/a020413/SN_HQ_Full_1080_V001.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_supernova.mp4",
+  "duration": 40.033333
+ },
+ {
+  "name": "svs_bh_orrery",
+  "tags": [
+   "black_hole"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014100/a014149/14149_Black_Hole_Orrery_FINAL_1080.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a014100/a014149/14149_Black_Hole_Orrery_FINAL_1080.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_bh_orrery.mp4",
+  "duration": 96.5965
+ },
+ {
+  "name": "svs_enceladus_geyser",
+  "tags": [
+   "venus",
+   "europa_clipper"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/EnceladusGeyser_web.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/EnceladusGeyser_web.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_enceladus_geyser.mp4",
+  "duration": 14.166667
+ },
+ {
+  "name": "svs_enceladus_vents",
+  "tags": [
+   "ocean_life",
+   "microscopic_life"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/OceanVents_web.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/OceanVents_web.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_enceladus_vents.mp4",
+  "duration": 11.25
+ },
+ {
+  "name": "svs_enceladus_ice",
+  "tags": [
+   "europa_clipper"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/IceLayerPan_web.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/IceLayerPan_web.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_enceladus_ice.mp4",
+  "duration": 3.737067
+ },
+ {
+  "name": "svs_enceladus_webb",
+  "tags": [
+   "jwst"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/EnceladusToWebb_web.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/EnceladusToWebb_web.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_enceladus_webb.mp4",
+  "duration": 32.065375
+ },
+ {
+  "name": "svs_dragonfly",
+  "tags": [
+   "europa_clipper"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020311/DF_End_Pan_H264_1080.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020311/DF_End_Pan_H264_1080.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_dragonfly.mp4",
+  "duration": 12.516667
+ },
+ {
+  "name": "svs_dragonfly_open",
+  "tags": [
+   "europa_clipper"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020311/DF_Open_H264_1080.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020311/DF_Open_H264_1080.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_dragonfly_open.mp4",
+  "duration": 24.45
+ },
+ {
+  "name": "svs_davinci",
+  "tags": [
+   "venus"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020351/DaVinci1021cut1080h264.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020351/DaVinci1021cut1080h264.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_davinci.mp4",
+  "duration": 173.033333
+ },
+ {
+  "name": "svs_sdo",
+  "tags": [
+   "sun_sdo"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a011700/a011762/G2015-012FiveYearsofSDOV2.mov",
+  "credit": "NASA SDO / SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a011700/a011762/G2015-012FiveYearsofSDOV2.mov",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_sdo.mov",
+  "duration": 175.066667
+ },
+ {
+  "name": "svs_jwst_reel",
+  "tags": [
+   "jwst"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013700/a013759/JWST_Media_Resource_Animation_Reel_1080p_A2.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a013700/a013759/JWST_Media_Resource_Animation_Reel_1080p_A2.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_jwst_reel.mp4",
+  "duration": 270.903967
+ },
+ {
+  "name": "svs_jwst_deploy",
+  "tags": [
+   "jwst"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020339/WEBB_Deployment_v2_30fps_4k_h264.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020339/WEBB_Deployment_v2_30fps_4k_h264.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_jwst_deploy.mp4",
+  "duration": 90.0
+ },
+ {
+  "name": "svs_jwst_360",
+  "tags": [
+   "jwst"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020339/WEBB_360_4k_30fps_h264.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020339/WEBB_360_4k_30fps_h264.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_jwst_360.mp4",
+  "duration": 30.0
+ },
+ {
+  "name": "svs_hwo",
+  "tags": [
+   "exoplanet_art",
+   "jwst"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014500/a014594/AC1_BeautyPass_4K_V2.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a014500/a014594/AC1_BeautyPass_4K_V2.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_hwo.mp4",
+  "duration": 16.182833
+ },
+ {
+  "name": "svs_hwo_life",
+  "tags": [
+   "exoplanet_art"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014861/HWO_SearchForLife_Best.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014861/HWO_SearchForLife_Best.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_hwo_life.mp4",
+  "duration": 219.010458
+ },
+ {
+  "name": "svs_bennu_impact",
+  "tags": [
+   "dinosaur_asteroid"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020356/NASA_BennuImpact_v17b.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020356/NASA_BennuImpact_v17b.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_bennu_impact.mp4",
+  "duration": 145.7
+ },
+ {
+  "name": "nasa_earth4k_65",
+  "tags": [
+   "earth_from_space"
+  ],
+  "nasa": "jsc2022m000172_Earth_in_4K_Expedition_65_Edition",
+  "src": "http://images-assets.nasa.gov/video/jsc2022m000172_Earth_in_4K_Expedition_65_Edition/jsc2022m000172_Earth_in_4K_Expedition_65_Edition~large.mp4",
+  "credit": "NASA",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/nasa_earth4k_65.mp4",
+  "duration": 3000.341
+ },
+ {
+  "name": "nasa_earth4k_67",
+  "tags": [
+   "earth_from_space",
+   "earth_night_lights"
+  ],
+  "nasa": "jsc2023m000111_Earth_in_4K_Space_Station_Expedition_67_68_Edition",
+  "src": "http://images-assets.nasa.gov/video/jsc2023m000111_Earth_in_4K_Space_Station_Expedition_67_68_Edition/jsc2023m000111_Earth_in_4K_Space_Station_Expedition_67_68_Edition~large.mp4",
+  "credit": "NASA",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/nasa_earth4k_67.mp4",
+  "duration": 3150.933
+ },
+ {
+  "name": "nasa_clipper_anim",
+  "tags": [
+   "europa_clipper"
+  ],
+  "nasa": "JPL-20220310-CLIPPRf-0001-Europa Clipper Mission Animations",
+  "src": "http://images-assets.nasa.gov/video/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations~large.mp4",
+  "credit": "NASA",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/nasa_clipper_anim.mp4",
+  "duration": 614.033333
+ },
+ {
+  "name": "nasa_jezero_delta",
+  "tags": [
+   "mars_surface",
+   "mars_rover"
+  ],
+  "nasa": "JPL-20220906-Perseverance_Explores_Jezero_Crater_Delta_UHD",
+  "src": "http://images-assets.nasa.gov/video/JPL-20220906-Perseverance_Explores_Jezero_Crater_Delta_UHD/JPL-20220906-Perseverance_Explores_Jezero_Crater_Delta_UHD~large.mp4",
+  "credit": "NASA",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/nasa_jezero_delta.mp4",
+  "duration": 199.766667
+ },
+ {
+  "name": "nasa_percy_landing",
+  "tags": [
+   "mars_rover"
+  ],
+  "nasa": "NHQ_2021_0222_VF_NASA Provides First Front-Row Seat to Perseverance Rover\u2019s Landing on Mars",
+  "src": "http://images-assets.nasa.gov/video/NHQ_2021_0222_VF_NASA%20Provides%20First%20Front-Row%20Seat%20to%20Perseverance%20Rover\u2019s%20Landing%20on%20Mars/NHQ_2021_0222_VF_NASA%20Provides%20First%20Front-Row%20Seat%20to%20Perseverance%20Rover\u2019s%20Landing%20on%20Mars~large.mp4",
+  "credit": "NASA",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/nasa_percy_landing.mp4",
+  "duration": 569.579
+ },
+ {
+  "name": "arc_atombomb",
+  "tags": [
+   "nuclear_archive",
+   "archive_los_alamos"
+  ],
+  "archive": "AtomBomb1946",
+  "src": "https://archive.org/download/AtomBomb1946/AtomBomb1946_edit.mp4",
+  "credit": "Prelinger Archives / Internet Archive",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/arc_atombomb.mp4",
+  "duration": 446.379267
+ },
+ {
+  "name": "arc_blast_effects",
+  "tags": [
+   "nuclear_archive"
+  ],
+  "archive": "a-bomb_blast_effects",
+  "src": "https://archive.org/download/a-bomb_blast_effects/a-bomb_blast_effects_edit.mp4",
+  "credit": "Prelinger Archives / Internet Archive",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/arc_blast_effects.mp4",
+  "duration": 498.517333
+ },
+ {
+  "name": "arc_a_is_for_atom",
+  "tags": [
+   "archive_1950s",
+   "archive_los_alamos"
+  ],
+  "archive": "isforAto1953",
+  "src": "https://archive.org/download/isforAto1953/isforAto1953_edit.mp4",
+  "credit": "Prelinger Archives / Internet Archive",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/arc_a_is_for_atom.mp4",
+  "duration": 882.715167
+ },
+ {
+  "name": "arc_date_family",
+  "tags": [
+   "archive_1950s",
+   "archive_lunch"
+  ],
+  "archive": "DateWith1950",
+  "src": "https://archive.org/download/DateWith1950/DateWith1950_edit.mp4",
+  "credit": "Prelinger Archives / Internet Archive",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/arc_date_family.mp4",
+  "duration": 600.066133
+ },
+ {
+  "name": "arc_design_dreaming",
+  "tags": [
+   "archive_1950s"
+  ],
+  "archive": "Designfo1956",
+  "src": "https://archive.org/download/Designfo1956/Designfo1956.mp4",
+  "credit": "Prelinger Archives / Internet Archive",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/arc_design_dreaming.mp4",
+  "duration": 556.789567
+ },
+ {
+  "name": "arc_american_engineer",
+  "tags": [
+   "archive_1950s",
+   "archive_1970s"
+  ],
+  "archive": "American1956",
+  "src": "https://archive.org/download/American1956/American1956_edit.mp4",
+  "credit": "Prelinger Archives / Internet Archive",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/arc_american_engineer.mp4",
+  "duration": 558.0575
+ },
+ {
+  "name": "arc_arecibo",
+  "tags": [
+   "arecibo",
+   "green_bank"
+  ],
+  "archive": "nasa_eclips_081009",
+  "src": "https://archive.org/download/nasa_eclips_081009/OW42_Subrip.ia.mp4",
+  "credit": "Prelinger Archives / Internet Archive",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/arc_arecibo.mp4",
+  "duration": 462.6
+ },
+ {
+  "name": "elt_fly_into",
+  "tags": [
+   "elt_observatory"
+  ],
+  "eso": "eso1716b",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso1716b.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/elt_fly_into.mp4",
+  "duration": 111.253333
+ },
+ {
+  "name": "elt_action",
+  "tags": [
+   "elt_observatory"
+  ],
+  "eso": "eso1150b",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/eso1150b.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/elt_action.m4v",
+  "duration": 26.168345
+ },
+ {
+  "name": "elt_sunset",
+  "tags": [
+   "elt_observatory"
+  ],
+  "eso": "eso1225b",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/eso1225b.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/elt_sunset.m4v",
+  "duration": 41.493333
+ },
+ {
+  "name": "elt_birdseye",
+  "tags": [
+   "elt_observatory",
+   "rubin_observatory"
+  ],
+  "eso": "elt2011ani1",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/elt2011ani1.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/elt_birdseye.m4v",
+  "duration": 26.051678
+ },
+ {
+  "name": "elt_night",
+  "tags": [
+   "elt_observatory",
+   "rubin_observatory"
+  ],
+  "eso": "potw2421a",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/potw2421a.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/elt_night.mp4",
+  "duration": 65.6
+ },
+ {
+  "name": "vlt_at_move",
+  "tags": [
+   "rubin_observatory",
+   "telescope_observatory"
+  ],
+  "eso": "vlt09auxteltimelapse4",
+  "src": "https://cdn.eso.org/videos/hd_and_apple/vlt09auxteltimelapse4.m4v",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/vlt_at_move.m4v",
+  "duration": 15.208345
+ },
+ {
+  "name": "svs_moon",
+  "tags": [
+   "moon_earth"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/phases_2026_fancy_1080p30.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005587/phases_2026_fancy_1080p30.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_moon.mp4",
+  "duration": 292.0
+ },
+ {
+  "name": "svs_volcano",
+  "tags": [
+   "volcano_earth"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005600/a005675/nisar_volcano_v21_no_grid.mp4",
+  "credit": "NASA SVS / NISAR",
+  "src": "http://svs.gsfc.nasa.gov/vis/a000000/a005600/a005675/nisar_volcano_v21_no_grid.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_volcano.mp4",
+  "duration": 16.7
+ },
+ {
+  "name": "svs_living_planet",
+  "tags": [
+   "ocean_life",
+   "volcano_earth",
+   "earth_from_space"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012900/a012945/LivingPlanetfromSpaceFINE_high.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a012900/a012945/LivingPlanetfromSpaceFINE_high.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_living_planet.mp4",
+  "duration": 303.566667
+ },
+ {
+  "name": "svs_perpetual_ocean",
+  "tags": [
+   "ocean_life",
+   "ocean_analogy"
+  ],
+  "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010800/a010841/3827_Perpetual_Ocean-540-MASTER_high.mp4",
+  "credit": "NASA SVS",
+  "src": "http://svs.gsfc.nasa.gov/vis/a010000/a010800/a010841/3827_Perpetual_Ocean-540-MASTER_high.mp4",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/svs_perpetual_ocean.mp4",
+  "duration": 182.266667
+ },
+ {
+  "name": "eso_sgra_stars",
+  "tags": [
+   "black_hole",
+   "galaxy_rotation"
+  ],
+  "eso": "eso2119a",
+  "src": "https://cdn.eso.org/videos/hd_1080p25_screen/eso2119a.mp4",
+  "credit": "ESO",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/eso_sgra_stars.mp4",
+  "duration": 95.957333
+ }
+]
