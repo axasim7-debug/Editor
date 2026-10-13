@@ -3,6 +3,7 @@ import {AbsoluteFill, Easing, interpolate, useCurrentFrame, useVideoConfig} from
 import {GOLD, INK, SANS, SERIF} from '../fonts';
 import type {Overlay} from '../types';
 import {Credits} from './Credits';
+import {DrakeEquation} from '../graphics/DrakeEquation';
 
 const ease = Easing.bezier(0.22, 1, 0.36, 1);
 
@@ -97,6 +98,7 @@ const Callout: React.FC<{overlay: Overlay}> = ({overlay}) => {
 	const {appear, leave} = useInOut(35, 25);
 	return (
 		<AbsoluteFill style={{opacity: leave, justifyContent: 'center', alignItems: 'flex-end', paddingRight: 150}}>
+			<AbsoluteFill style={{opacity: appear, background: 'radial-gradient(ellipse 900px 420px at 78% 50%, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%)'}} />
 			<div
 				style={{
 					textAlign: 'right',
@@ -171,6 +173,8 @@ export const OverlayView: React.FC<{overlay: Overlay}> = ({overlay}) => {
 			return <TitleCard overlay={overlay} />;
 		case 'quote':
 			return <Quote overlay={overlay} />;
+		case 'drake':
+			return <DrakeEquation durationInFrames={overlay.duration} transparent />;
 		case 'credits':
 			return <Credits lines={overlay.lines ?? []} />;
 		default:

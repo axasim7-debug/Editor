@@ -253,9 +253,7 @@
    150,
    170,
    {
-    "tags": [
-     "exoplanet_art"
-    ]
+    "skip": true
    }
   ],
   [
@@ -400,17 +398,7 @@
    }
   ]
  ],
- "arc_a_is_for_atom": [
-  [
-   45,
-   65,
-   {
-    "tags": [
-     "archive_1950s"
-    ]
-   }
-  ]
- ],
+ "arc_a_is_for_atom": "skip",
  "arc_date_family": [
   [
    330,
@@ -496,13 +484,19 @@
   ],
   [
    34,
-   43
+   43,
+   {
+    "skip": true
+   }
   ]
  ],
  "l9859_flyto": [
   [
    13,
-   20
+   20,
+   {
+    "skip": true
+   }
   ],
   [
    0.5,
@@ -522,7 +516,10 @@
   ],
   [
    28,
-   48
+   48,
+   {
+    "skip": true
+   }
   ]
  ],
  "oumuamua_gas": [
@@ -537,28 +534,8 @@
    26
   ]
  ],
- "svs_heliosphere": [
-  [
-   0.5,
-   8,
-   {
-    "tags": [
-     "voyager",
-     "pale_blue_dot"
-    ]
-   }
-  ],
-  [
-   9,
-   23
-  ]
- ],
- "svs_openuniverse": [
-  [
-   18,
-   42
-  ]
- ],
+ "svs_heliosphere": "skip",
+ "svs_openuniverse": "skip",
  "svs_enceladus_webb": [
   [
    0.5,
@@ -652,55 +629,25 @@
    16.5
   ]
  ],
- "svs_living_planet": [
+ "svs_living_planet": "skip",
+ "svs_perpetual_ocean": "skip",
+ "svs_enceladus_ice": "skip",
+ "arc_bacteria": [
   [
-   50,
-   75,
-   {
-    "tags": [
-     "earth_from_space",
-     "ocean_life"
-    ]
-   }
-  ],
-  [
-   200,
-   225,
-   {
-    "tags": [
-     "ocean_life",
-     "volcano_earth"
-    ]
-   }
-  ],
-  [
-   240,
-   260,
-   {
-    "tags": [
-     "ocean_life"
-    ]
-   }
-  ],
-  [
-   275,
-   300,
-   {
-    "tags": [
-     "earth_from_space"
-    ]
-   }
-  ]
- ],
- "svs_perpetual_ocean": [
-  [
-   5,
-   80
-  ],
-  [
-   80,
+   145,
    165
+  ],
+  [
+   312,
+   348
+  ],
+  [
+   578,
+   598
   ]
  ],
- "svs_enceladus_ice": "skip"
+ "svs_alpha_cen": "skip",
+ "svs_alpha_cen2": "skip",
+ "borisov_orbit": "skip",
+ "trappist_orbits": "skip"
 }

@@ -43,16 +43,6 @@
   "archival": false
  },
  {
-  "id": "arc_a_is_for_atom_0",
-  "file": "footage/arc_a_is_for_atom_0.mp4",
-  "tags": [
-   "archive_1950s"
-  ],
-  "duration": 20.03,
-  "credit": "Prelinger Archives / Internet Archive",
-  "archival": true
- },
- {
   "id": "arc_american_engineer_0",
   "file": "footage/arc_american_engineer_0.mp4",
   "tags": [
@@ -112,6 +102,36 @@
    "nuclear_archive"
   ],
   "duration": 25.03,
+  "credit": "Prelinger Archives / Internet Archive",
+  "archival": true
+ },
+ {
+  "id": "arc_bacteria_0",
+  "file": "footage/arc_bacteria_0.mp4",
+  "tags": [
+   "microscopic_life"
+  ],
+  "duration": 20.03,
+  "credit": "Prelinger Archives / Internet Archive",
+  "archival": true
+ },
+ {
+  "id": "arc_bacteria_1",
+  "file": "footage/arc_bacteria_1.mp4",
+  "tags": [
+   "microscopic_life"
+  ],
+  "duration": 36.0,
+  "credit": "Prelinger Archives / Internet Archive",
+  "archival": true
+ },
+ {
+  "id": "arc_bacteria_2",
+  "file": "footage/arc_bacteria_2.mp4",
+  "tags": [
+   "microscopic_life"
+  ],
+  "duration": 20.03,
   "credit": "Prelinger Archives / Internet Archive",
   "archival": true
  },
@@ -197,16 +217,6 @@
   "archival": false
  },
  {
-  "id": "borisov_orbit_0",
-  "file": "footage/borisov_orbit_0.mp4",
-  "tags": [
-   "comet_atlas"
-  ],
-  "duration": 33.47,
-  "credit": "ESO",
-  "archival": false
- },
- {
   "id": "borisov_surface_0",
   "file": "footage/borisov_surface_0.mp4",
   "tags": [
@@ -279,17 +289,6 @@
   "archival": false
  },
  {
-  "id": "l9859_flyto_0",
-  "file": "footage/l9859_flyto_0.mp4",
-  "tags": [
-   "exoplanet_art",
-   "habitable_zone"
-  ],
-  "duration": 6.97,
-  "credit": "ESO",
-  "archival": false
- },
- {
   "id": "l9859_flyto_1",
   "file": "footage/l9859_flyto_1.mp4",
   "tags": [
@@ -308,17 +307,6 @@
    "habitable_zone"
   ],
   "duration": 4.53,
-  "credit": "ESO",
-  "archival": false
- },
- {
-  "id": "lhs1140_trip_1",
-  "file": "footage/lhs1140_trip_1.mp4",
-  "tags": [
-   "exoplanet_art",
-   "habitable_zone"
-  ],
-  "duration": 9.03,
   "credit": "ESO",
   "archival": false
  },
@@ -768,16 +756,6 @@
   "archival": false
  },
  {
-  "id": "oumuamua_path_1",
-  "file": "footage/oumuamua_path_1.mp4",
-  "tags": [
-   "oumuamua_art"
-  ],
-  "duration": 20.03,
-  "credit": "ESO",
-  "archival": false
- },
- {
   "id": "proxima_art_0",
   "file": "footage/proxima_art_0.mp4",
   "tags": [
@@ -786,28 +764,6 @@
   ],
   "duration": 31.13,
   "credit": "ESO",
-  "archival": false
- },
- {
-  "id": "svs_alpha_cen2_0",
-  "file": "footage/svs_alpha_cen2_0.mp4",
-  "tags": [
-   "exoplanet_art"
-  ],
-  "duration": 12.2,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_alpha_cen_0",
-  "file": "footage/svs_alpha_cen_0.mp4",
-  "tags": [
-   "exoplanet_art",
-   "habitable_zone",
-   "stars_drift"
-  ],
-  "duration": 12.2,
-  "credit": "NASA SVS",
   "archival": false
  },
  {
@@ -935,27 +891,6 @@
   "archival": false
  },
  {
-  "id": "svs_heliosphere_0",
-  "file": "footage/svs_heliosphere_0.mp4",
-  "tags": [
-   "voyager",
-   "pale_blue_dot"
-  ],
-  "duration": 7.5,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_heliosphere_1",
-  "file": "footage/svs_heliosphere_1.mp4",
-  "tags": [
-   "voyager"
-  ],
-  "duration": 14.03,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
   "id": "svs_hwo_0",
   "file": "footage/svs_hwo_0.mp4",
   "tags": [
@@ -995,16 +930,6 @@
    "habitable_zone"
   ],
   "duration": 23.07,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_hwo_life_3",
-  "file": "footage/svs_hwo_life_3.mp4",
-  "tags": [
-   "exoplanet_art"
-  ],
-  "duration": 20.03,
   "credit": "NASA SVS",
   "archival": false
  },
@@ -1061,48 +986,6 @@
   "archival": false
  },
  {
-  "id": "svs_living_planet_0",
-  "file": "footage/svs_living_planet_0.mp4",
-  "tags": [
-   "earth_from_space",
-   "ocean_life"
-  ],
-  "duration": 25.0,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_living_planet_1",
-  "file": "footage/svs_living_planet_1.mp4",
-  "tags": [
-   "ocean_life",
-   "volcano_earth"
-  ],
-  "duration": 25.0,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_living_planet_2",
-  "file": "footage/svs_living_planet_2.mp4",
-  "tags": [
-   "ocean_life"
-  ],
-  "duration": 20.0,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_living_planet_3",
-  "file": "footage/svs_living_planet_3.mp4",
-  "tags": [
-   "earth_from_space"
-  ],
-  "duration": 25.0,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
   "id": "svs_milkyway_0",
   "file": "footage/svs_milkyway_0.mp4",
   "tags": [
@@ -1110,38 +993,6 @@
    "galaxy_zoom"
   ],
   "duration": 9.07,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_openuniverse_0",
-  "file": "footage/svs_openuniverse_0.mp4",
-  "tags": [
-   "deep_field"
-  ],
-  "duration": 24.03,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_perpetual_ocean_0",
-  "file": "footage/svs_perpetual_ocean_0.mp4",
-  "tags": [
-   "ocean_life",
-   "ocean_analogy"
-  ],
-  "duration": 75.0,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
-  "id": "svs_perpetual_ocean_1",
-  "file": "footage/svs_perpetual_ocean_1.mp4",
-  "tags": [
-   "ocean_life",
-   "ocean_analogy"
-  ],
-  "duration": 85.0,
   "credit": "NASA SVS",
   "archival": false
  },
@@ -1236,16 +1087,6 @@
    "exoplanet_art"
   ],
   "duration": 40.0,
-  "credit": "ESO",
-  "archival": false
- },
- {
-  "id": "trappist_orbits_0",
-  "file": "footage/trappist_orbits_0.mp4",
-  "tags": [
-   "trappist_art"
-  ],
-  "duration": 25.3,
   "credit": "ESO",
   "archival": false
  },

@@ -647,5 +647,12 @@
    "jupiter_juno"
   ],
   "eso": "fettu-jupiter"
+ },
+ {
+  "name": "arc_bacteria",
+  "tags": [
+   "microscopic_life"
+  ],
+  "archive": "bacteria_friend_and_foe"
  }
 ]

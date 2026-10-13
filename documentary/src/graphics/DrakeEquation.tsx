@@ -15,7 +15,7 @@ const TERMS: {sym: React.ReactNode; label: string; known: boolean}[] = [
 
 // Timeline (fractions of the shot): terms appear, a highlight walks across them with
 // a caption, then the measured terms turn gold and the unknowns dim, with L glowing last.
-export const DrakeEquation: React.FC<{durationInFrames: number}> = ({durationInFrames}) => {
+export const DrakeEquation: React.FC<{durationInFrames: number; transparent?: boolean}> = ({durationInFrames, transparent}) => {
 	const frame = useCurrentFrame();
 	const D = durationInFrames;
 	const revealEnd = Math.min(D * 0.18, 150);
@@ -27,9 +27,13 @@ export const DrakeEquation: React.FC<{durationInFrames: number}> = ({durationInF
 	const zoom = interpolate(frame, [0, D], [1, 1.06]);
 
 	return (
-		<AbsoluteFill style={{backgroundColor: '#03040a'}}>
-			<Nebula opacity={0.7} />
-			<StarLayer seed="drake" count={600} opacity={0.6} />
+		<AbsoluteFill style={{backgroundColor: transparent ? 'rgba(0,0,0,0.5)' : '#03040a', textShadow: '0 4px 30px rgba(0,0,0,0.9)'}}>
+			{transparent ? null : (
+				<>
+					<Nebula opacity={0.7} />
+					<StarLayer seed="drake" count={600} opacity={0.6} />
+				</>
+			)}
 			<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', transform: `scale(${zoom})`}}>
 				<div style={{display: 'flex', alignItems: 'baseline', fontFamily: SERIF, color: INK, fontSize: 120, fontStyle: 'italic'}}>
 					<span style={{opacity: interpolate(frame, [0, 20], [0, 1], {extrapolateRight: 'clamp'})}}>N&nbsp;=&nbsp;</span>

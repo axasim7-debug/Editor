@@ -37,7 +37,7 @@ export type AudioClip = {
 };
 
 export type Overlay = {
-	type: 'chapterCard' | 'lowerThird' | 'callout' | 'titleCard' | 'credits' | 'quote';
+	type: 'chapterCard' | 'lowerThird' | 'callout' | 'titleCard' | 'credits' | 'quote' | 'drake';
 	from: number;
 	duration: number;
 	title?: string;

@@ -86,6 +86,8 @@ def main():
         for k, span in enumerate(spans):
             a, b = span[0], span[1]
             opts = span[2] if len(span) > 2 else {}
+            if opts.get("skip"):
+                continue
             cid = f"{name}_{k}"
             dest = os.path.join(OUT, cid + ".mp4")
             if not os.path.exists(dest):

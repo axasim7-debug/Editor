@@ -922,5 +922,16 @@
   "credit": "ESO",
   "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/eso_sgra_stars.mp4",
   "duration": 95.957333
+ },
+ {
+  "name": "arc_bacteria",
+  "tags": [
+   "microscopic_life"
+  ],
+  "archive": "bacteria_friend_and_foe",
+  "src": "https://archive.org/download/bacteria_friend_and_foe/bacteria_friend_and_foe_edit.mp4",
+  "credit": "Prelinger Archives / Internet Archive",
+  "raw": "/tmp/claude-0/-home-user-Editor/94355bb2-58d8-53ad-bce2-d66d282dd613/scratchpad/raw/arc_bacteria.mp4",
+  "duration": 614.762667
  }
 ]

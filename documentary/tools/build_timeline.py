@@ -15,20 +15,32 @@ TAIL = 2.0          # music breath at the end of each chapter
 FADE = 15           # crossfade between shots (frames)
 CREDITS_SECONDS = 85
 
+# Only the Wow! printout (a recreation of the real 1977 document) is generated;
+# every other visual is real footage or photography.
 GRAPHIC_TAGS = {
-    "drake_equation": ("DrakeEquation", {}),
     "wow_signal": ("WowSignal", {}),
-    "filter_graphic": ("GreatFilter", {}),
-    "galaxy_spread": ("GalaxySpread", {"mode": "colonize"}),
-    "probe_art": ("GalaxySpread", {"mode": "probes"}),
-    "dyson_sphere_art": ("DysonSwarm", {}),
-    "grabby_graphic": ("GrabbyAliens", {}),
-    "ocean_analogy": ("OceanAnalogy", {}),
-    "dark_forest": ("DarkForest", {}),
-    "digital_universe": ("DigitalUniverse", {}),
-    "dinosaur_asteroid": ("AsteroidImpact", {}),
-    "title_card": ("TitleBackdrop", {}),
-    "microscopic_life": ("CellMerger", {}),
+}
+# Concepts that cannot be filmed are shown with real imagery of the closest subject.
+REMAP = {
+    "drake_equation": "radio_telescope_night",
+    "filter_graphic": "earth_from_space",
+    "galaxy_spread": "galaxy_rotation",
+    "probe_art": "galaxy_zoom",
+    "dyson_sphere_art": "sun_sdo",
+    "grabby_graphic": "deep_field",
+    "ocean_analogy": "earth_from_space",
+    "dark_forest": "stars_drift",
+    "digital_universe": "deep_field",
+    "dinosaur_asteroid": "earth_from_space",
+    "title_card": "milkyway_timelapse",
+}
+# Text laid over the real footage of those concept blocks.
+CONCEPT_OVERLAYS = {
+    "drake_equation": {"type": "drake"},
+    "filter_graphic": {"type": "callout", "title": "The Great Filter", "sub": "Behind us — or ahead of us?"},
+    "ocean_analogy": {"type": "callout", "title": "≈ 1 hot tub", "sub": "searched so far, out of all of Earth's oceans"},
+    "grabby_graphic": {"type": "callout", "title": "Are we early?", "sub": "13.8 billion years — and perhaps just the beginning"},
+    "dark_forest": {"type": "callout", "title": "Silence", "sub": "a strategy — or an accident?"},
 }
 # tags whose pool may be thin borrow from a related pool
 FALLBACK = {
@@ -38,6 +50,7 @@ FALLBACK = {
     "rubin_observatory": "elt_observatory",
     "microscopic_life": "ocean_life",
     "jupiter_juno": "europa_clipper",
+    "galaxy_rotation": "galaxy_zoom",
 }
 SHOT_SECONDS = {"default": 6.5, "image": 7.5, "slow": 8.5}
 SLOW_TAGS = {"stars_drift", "milkyway_timelapse", "earth_from_space", "radio_telescope_night", "deep_field"}
@@ -118,6 +131,7 @@ def kenburns(kind, i):
 
 def fill_block(picker, tag, start, end, shots):
     """Cover [start, end) frames with shots for a visual tag."""
+    tag = REMAP.get(tag, tag)
     if tag in GRAPHIC_TAGS:
         name, props = GRAPHIC_TAGS[tag]
         shots.append({"from": start, "len": end - start, "type": "graphic", "graphic": name, "props": dict(props)})
@@ -273,6 +287,13 @@ def main():
         shots = []
         for tag, a, b in blocks:
             fill_block(picker, tag, a, b, shots)
+            if tag in CONCEPT_OVERLAYS:
+                ov = dict(CONCEPT_OVERLAYS[tag])
+                if ov["type"] == "drake":
+                    ov.update({"from": a, "duration": b - a})
+                else:
+                    ov.update({"from": a + 20, "duration": min(f(7), b - a - 20)})
+                overlays.append(ov)
         shots = finalize_shots(shots, seg_len)
         for s in shots:
             if s.get("credit"):
@@ -304,6 +325,8 @@ def main():
 
     # closing credits
     end_len = f(CREDITS_SECONDS)
+    credit_shots = []
+    fill_block(picker, "milkyway_timelapse", 0, end_len, credit_shots)
     music = music_for("END", end_len)
     used_music += [m["name"] for m in music]
     credit_lines = ["# Are We Alone?", "The Mystery of the Fermi Paradox", "",
@@ -326,7 +349,7 @@ def main():
                     "Thank you for watching."]
     segments.append({
         "id": "END", "title": "Credits", "subtitle": "", "durationInFrames": end_len,
-        "shots": [{"from": 0, "duration": end_len, "type": "graphic", "graphic": "TitleBackdrop", "props": {}, "fadeIn": 0}],
+        "shots": finalize_shots(credit_shots, end_len),
         "narration": [], "music": [{k: v for k, v in m.items() if k != "name"} for m in music],
         "overlays": [{"type": "credits", "from": 0, "duration": end_len, "lines": credit_lines}],
         "speech": [], "fadeFromBlack": 30, "fadeToBlack": 60,
