@@ -1,18 +1,338 @@
 {
- "nasa_earth4k_65": [[40,65],[340,365],[840,870],[1140,1170],[1440,1470],[1545,1575],[1940,1965],[2440,2470],
-                     [745,770,{"tags":["earth_night_lights"]}],[2240,2270,{"tags":["earth_night_lights"]}],[2640,2665,{"tags":["earth_night_lights","stars_drift"]}],[2840,2865,{"tags":["earth_night_lights"]}]],
- "nasa_earth4k_67": [[180,210],[580,610],[960,990],[1370,1400],[2160,2190,{"tags":["earth_night_lights"]}],[2550,2580,{"tags":["earth_night_lights"]}]],
- "nasa_clipper_anim": [[25,50],[145,175],[410,440],[455,500],[515,545],[595,612]],
- "nasa_percy_landing": [[215,245,{"crop":"4:3"}],[100,130,{"crop":"4:3","tags":["mars_surface"]}],[160,190,{"crop":"4:3","tags":["mars_surface"]}],[300,325]],
- "nasa_jezero_delta": [[52,76],[83,112],[123,140],[176,188]],
- "svs_jwst_reel": [[100,160],[245,270,{"tags":["deep_field","nebula_dust"]}]],
- "svs_jwst_deploy": [[38,90]],
- "svs_sdo": [[22,60],[100,128],[140,166]],
- "svs_hwo_life": [[15,45,{"tags":["exoplanet_art","habitable_zone"]}],[45,68,{"tags":["jwst"]}],[125,148,{"tags":["exoplanet_art","habitable_zone"]}],[150,170,{"tags":["exoplanet_art"]}],[190,206,{"tags":["jwst","exoplanet_art"]}]],
- "trappist_fly": [[1,50],[60,110],[115,155]],
- "svs_davinci": [[52,62],[61,74],[136,152,{"tags":["volcano_earth"]}],[153,158]],
- "zoom_sgra": [[10,31,{"tags":["galaxy_zoom","milkyway_timelapse"]}],[41,52,{"tags":["black_hole"]}]],
- "zoom_cone": [[17,37]],
+ "nasa_earth4k_65": [
+  [
+   40,
+   65
+  ],
+  [
+   340,
+   365
+  ],
+  [
+   840,
+   870
+  ],
+  [
+   1140,
+   1170
+  ],
+  [
+   1440,
+   1470
+  ],
+  [
+   1545,
+   1575
+  ],
+  [
+   1940,
+   1965
+  ],
+  [
+   2440,
+   2470
+  ],
+  [
+   745,
+   770,
+   {
+    "tags": [
+     "earth_night_lights"
+    ]
+   }
+  ],
+  [
+   2240,
+   2270,
+   {
+    "tags": [
+     "earth_night_lights"
+    ]
+   }
+  ],
+  [
+   2640,
+   2665,
+   {
+    "tags": [
+     "earth_night_lights",
+     "stars_drift"
+    ]
+   }
+  ],
+  [
+   2840,
+   2865,
+   {
+    "tags": [
+     "earth_night_lights"
+    ]
+   }
+  ]
+ ],
+ "nasa_earth4k_67": [
+  [
+   180,
+   210
+  ],
+  [
+   580,
+   610
+  ],
+  [
+   960,
+   990
+  ],
+  [
+   1370,
+   1400
+  ],
+  [
+   2160,
+   2190,
+   {
+    "tags": [
+     "earth_night_lights"
+    ]
+   }
+  ],
+  [
+   2550,
+   2580,
+   {
+    "tags": [
+     "earth_night_lights"
+    ]
+   }
+  ]
+ ],
+ "nasa_clipper_anim": [
+  [
+   25,
+   50
+  ],
+  [
+   145,
+   175
+  ],
+  [
+   410,
+   440
+  ],
+  [
+   455,
+   500
+  ],
+  [
+   515,
+   545
+  ],
+  [
+   595,
+   612
+  ]
+ ],
+ "nasa_percy_landing": [
+  [
+   215,
+   245,
+   {
+    "crop": "4:3"
+   }
+  ],
+  [
+   100,
+   130,
+   {
+    "crop": "4:3",
+    "tags": [
+     "mars_surface"
+    ]
+   }
+  ],
+  [
+   160,
+   190,
+   {
+    "crop": "4:3",
+    "tags": [
+     "mars_surface"
+    ]
+   }
+  ],
+  [
+   300,
+   325
+  ]
+ ],
+ "nasa_jezero_delta": [
+  [
+   52,
+   76
+  ],
+  [
+   83,
+   112
+  ],
+  [
+   123,
+   140
+  ],
+  [
+   176,
+   188
+  ]
+ ],
+ "svs_jwst_reel": [
+  [
+   100,
+   160
+  ],
+  [
+   245,
+   270,
+   {
+    "tags": [
+     "deep_field",
+     "nebula_dust"
+    ]
+   }
+  ]
+ ],
+ "svs_jwst_deploy": [
+  [
+   38,
+   90
+  ]
+ ],
+ "svs_sdo": [
+  [
+   22,
+   60
+  ],
+  [
+   100,
+   128
+  ],
+  [
+   140,
+   166
+  ]
+ ],
+ "svs_hwo_life": [
+  [
+   15,
+   45,
+   {
+    "tags": [
+     "exoplanet_art",
+     "habitable_zone"
+    ]
+   }
+  ],
+  [
+   45,
+   68,
+   {
+    "tags": [
+     "jwst"
+    ]
+   }
+  ],
+  [
+   125,
+   148,
+   {
+    "tags": [
+     "exoplanet_art",
+     "habitable_zone"
+    ]
+   }
+  ],
+  [
+   150,
+   170,
+   {
+    "tags": [
+     "exoplanet_art"
+    ]
+   }
+  ],
+  [
+   190,
+   206,
+   {
+    "tags": [
+     "jwst",
+     "exoplanet_art"
+    ]
+   }
+  ]
+ ],
+ "trappist_fly": [
+  [
+   1,
+   50
+  ],
+  [
+   60,
+   110
+  ],
+  [
+   115,
+   155
+  ]
+ ],
+ "svs_davinci": [
+  [
+   52,
+   62
+  ],
+  [
+   61,
+   74
+  ],
+  [
+   136,
+   152,
+   {
+    "tags": [
+     "volcano_earth"
+    ]
+   }
+  ],
+  [
+   153,
+   158
+  ]
+ ],
+ "zoom_sgra": [
+  [
+   10,
+   31,
+   {
+    "tags": [
+     "galaxy_zoom",
+     "milkyway_timelapse"
+    ]
+   }
+  ],
+  [
+   41,
+   52,
+   {
+    "tags": [
+     "black_hole"
+    ]
+   }
+  ]
+ ],
+ "zoom_cone": [
+  [
+   17,
+   37
+  ]
+ ],
  "svs_bennu_impact": "skip",
  "svs_bh_orrery": "skip",
  "svs_voyager_edge": "skip",
@@ -21,34 +341,366 @@
  "svs_moon": "skip",
  "eso_sgra_stars": "skip",
  "arc_arecibo": "skip",
- "arc_atombomb": [[120,166,{"tags":["nuclear_archive"]}],[180,200,{"tags":["archive_los_alamos","archive_1950s"]}],[225,242,{"tags":["archive_los_alamos"]}],[275,300,{"tags":["nuclear_archive"]}]],
- "arc_blast_effects": [[60,90,{"tags":["archive_los_alamos"]}],[455,480,{"tags":["nuclear_archive"]}]],
- "arc_a_is_for_atom": [[45,65,{"tags":["archive_1950s"]}]],
- "arc_date_family": [[330,350,{"tags":["archive_lunch"]}],[480,505,{"tags":["archive_lunch","archive_1950s"]}],[255,270,{"tags":["archive_lunch"]}]],
- "arc_design_dreaming": [[170,185,{"tags":["archive_1950s"]}],[515,540,{"tags":["archive_1950s"]}]],
- "arc_american_engineer": [[25,45,{"tags":["green_bank","archive_1970s","radio_telescope_night"]}],[100,115,{"tags":["archive_1970s"]}]],
- "alma_magellanic": [[0.5,7]],
- "lhs1140_trip": [[0.5,5],[34,43]],
- "l9859_flyto": [[13,20],[0.5,10,{"tags":["telescope_observatory","radio_telescope_night"]}]],
- "oumuamua_path": [[0.5,8],[28,48]],
- "oumuamua_gas": [[0.5,14]],
- "venus_zoom": [[0.5,26]],
- "svs_heliosphere": [[0.5,8,{"tags":["voyager","pale_blue_dot"]}],[9,23]],
- "svs_openuniverse": [[18,42]],
- "svs_enceladus_webb": [[0.5,9,{"tags":["europa_clipper"]}]],
- "mw_vlt_night": [[4,24]],
- "mw_paranal_night": [[3,54]],
- "mw_ut34": [[4,26]],
- "mw_lasilla": [[1,60]],
- "alma_4ant": [[1,44]],
- "alma_4ant2": [[1,50]],
- "elt_fly_into": [[1,20],[85,100]],
- "elt_action": [[4,23]],
- "elt_sunset": [[6,37]],
- "elt_birdseye": [[4,22]],
- "elt_night": [[4,64]],
- "vlt_at_move": [[4.5,11]],
- "svs_volcano": [[6.5,16.5]],
- "svs_living_planet": [[50,75,{"tags":["earth_from_space","ocean_life"]}],[200,225,{"tags":["ocean_life","volcano_earth"]}],[240,260,{"tags":["ocean_life"]}],[275,300,{"tags":["earth_from_space"]}]],
- "svs_perpetual_ocean": [[5,80],[80,165]]
+ "arc_atombomb": [
+  [
+   120,
+   166,
+   {
+    "tags": [
+     "nuclear_archive"
+    ]
+   }
+  ],
+  [
+   180,
+   200,
+   {
+    "tags": [
+     "archive_los_alamos",
+     "archive_1950s"
+    ]
+   }
+  ],
+  [
+   225,
+   242,
+   {
+    "tags": [
+     "archive_los_alamos"
+    ]
+   }
+  ],
+  [
+   275,
+   300,
+   {
+    "tags": [
+     "nuclear_archive"
+    ]
+   }
+  ]
+ ],
+ "arc_blast_effects": [
+  [
+   60,
+   90,
+   {
+    "tags": [
+     "archive_los_alamos"
+    ]
+   }
+  ],
+  [
+   455,
+   480,
+   {
+    "tags": [
+     "nuclear_archive"
+    ]
+   }
+  ]
+ ],
+ "arc_a_is_for_atom": [
+  [
+   45,
+   65,
+   {
+    "tags": [
+     "archive_1950s"
+    ]
+   }
+  ]
+ ],
+ "arc_date_family": [
+  [
+   330,
+   350,
+   {
+    "tags": [
+     "archive_lunch"
+    ]
+   }
+  ],
+  [
+   480,
+   505,
+   {
+    "tags": [
+     "archive_lunch",
+     "archive_1950s"
+    ]
+   }
+  ],
+  [
+   255,
+   270,
+   {
+    "tags": [
+     "archive_lunch"
+    ]
+   }
+  ]
+ ],
+ "arc_design_dreaming": [
+  [
+   170,
+   185,
+   {
+    "tags": [
+     "archive_1950s"
+    ]
+   }
+  ],
+  [
+   515,
+   540,
+   {
+    "tags": [
+     "archive_1950s"
+    ]
+   }
+  ]
+ ],
+ "arc_american_engineer": [
+  [
+   25,
+   45,
+   {
+    "tags": [
+     "green_bank",
+     "archive_1970s",
+     "radio_telescope_night"
+    ]
+   }
+  ],
+  [
+   100,
+   115,
+   {
+    "tags": [
+     "archive_1970s"
+    ]
+   }
+  ]
+ ],
+ "alma_magellanic": [
+  [
+   0.5,
+   7
+  ]
+ ],
+ "lhs1140_trip": [
+  [
+   0.5,
+   5
+  ],
+  [
+   34,
+   43
+  ]
+ ],
+ "l9859_flyto": [
+  [
+   13,
+   20
+  ],
+  [
+   0.5,
+   10,
+   {
+    "tags": [
+     "telescope_observatory",
+     "radio_telescope_night"
+    ]
+   }
+  ]
+ ],
+ "oumuamua_path": [
+  [
+   0.5,
+   8
+  ],
+  [
+   28,
+   48
+  ]
+ ],
+ "oumuamua_gas": [
+  [
+   0.5,
+   14
+  ]
+ ],
+ "venus_zoom": [
+  [
+   0.5,
+   26
+  ]
+ ],
+ "svs_heliosphere": [
+  [
+   0.5,
+   8,
+   {
+    "tags": [
+     "voyager",
+     "pale_blue_dot"
+    ]
+   }
+  ],
+  [
+   9,
+   23
+  ]
+ ],
+ "svs_openuniverse": [
+  [
+   18,
+   42
+  ]
+ ],
+ "svs_enceladus_webb": [
+  [
+   0.5,
+   9,
+   {
+    "tags": [
+     "europa_clipper"
+    ]
+   }
+  ]
+ ],
+ "mw_vlt_night": [
+  [
+   4,
+   24
+  ]
+ ],
+ "mw_paranal_night": [
+  [
+   3,
+   54
+  ]
+ ],
+ "mw_ut34": [
+  [
+   4,
+   26
+  ]
+ ],
+ "mw_lasilla": [
+  [
+   1,
+   60
+  ]
+ ],
+ "alma_4ant": [
+  [
+   1,
+   44
+  ]
+ ],
+ "alma_4ant2": [
+  [
+   1,
+   50
+  ]
+ ],
+ "elt_fly_into": [
+  [
+   1,
+   20
+  ],
+  [
+   85,
+   100
+  ]
+ ],
+ "elt_action": [
+  [
+   4,
+   23
+  ]
+ ],
+ "elt_sunset": [
+  [
+   6,
+   37
+  ]
+ ],
+ "elt_birdseye": [
+  [
+   4,
+   22
+  ]
+ ],
+ "elt_night": [
+  [
+   4,
+   64
+  ]
+ ],
+ "vlt_at_move": [
+  [
+   4.5,
+   11
+  ]
+ ],
+ "svs_volcano": [
+  [
+   6.5,
+   16.5
+  ]
+ ],
+ "svs_living_planet": [
+  [
+   50,
+   75,
+   {
+    "tags": [
+     "earth_from_space",
+     "ocean_life"
+    ]
+   }
+  ],
+  [
+   200,
+   225,
+   {
+    "tags": [
+     "ocean_life",
+     "volcano_earth"
+    ]
+   }
+  ],
+  [
+   240,
+   260,
+   {
+    "tags": [
+     "ocean_life"
+    ]
+   }
+  ],
+  [
+   275,
+   300,
+   {
+    "tags": [
+     "earth_from_space"
+    ]
+   }
+  ]
+ ],
+ "svs_perpetual_ocean": [
+  [
+   5,
+   80
+  ],
+  [
+   80,
+   165
+  ]
+ ],
+ "svs_enceladus_ice": "skip"
 }

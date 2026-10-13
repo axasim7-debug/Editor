@@ -903,16 +903,6 @@
   "archival": false
  },
  {
-  "id": "svs_enceladus_ice_0",
-  "file": "footage/svs_enceladus_ice_0.mp4",
-  "tags": [
-   "europa_clipper"
-  ],
-  "duration": 2.77,
-  "credit": "NASA SVS",
-  "archival": false
- },
- {
   "id": "svs_enceladus_vents_0",
   "file": "footage/svs_enceladus_vents_0.mp4",
   "tags": [
