@@ -17,6 +17,7 @@ move is locked to the music.
 | 1. Music excerpt (-14 LUFS) | `tools/prepare_music.sh <track.mp3> <start> <end> public/music/<name>.wav` |
 | 2. Music analysis | `python3 tools/analyze_music.py public/music/<name>.wav 0 <len> 60 src/data/<name>.music.json` |
 | 3. Lock stations to the phrase hits | edit `PULSE` in `src/drake/script.ts` (hand-checked against the analysis) |
+| 3b. Galaxy plates | `tools/bake_plates.sh` (only after editing `Galaxy.tsx`; plates are committed) |
 | 4. Preview | `npx remotion studio` · stills: `node tools/stills.mjs out/stills 0 4.5 12` |
 | 5. Render | `npx remotion render DrakeShort out/drake-short.mp4` |
 

@@ -1,5 +1,5 @@
-import React, {useMemo} from 'react';
-import {random} from 'remotion';
+import React from 'react';
+import {random, staticFile} from 'remotion';
 import {clamp01, outExpo} from '../lib/ease';
 import {CYAN, EARTH, GOLD, MONO} from '../theme';
 import {CLIMAX, GALAXY, YAH} from './script';
@@ -58,6 +58,37 @@ const KNOTS = makeStars(55, 'knot', true).map((k, i) => ({...k, r: 3.5 + random(
 const HAZE = makeStars(260, 'haze', true).map((k, i) => ({...k, r: 16 + random(`hr${i}`) * 22, c: random(`hc${i}`) < 0.7 ? '#5a7fd6' : '#c9a2ff'}));
 const CIVS = makeStars(2000, 'civ', true).map((c, i) => ({...c, t: CLIMAX.reveal + Math.pow(random(`ct${i}`), 2.2) * 1.4}));
 
+const PLATE_R = 620; // plate covers galaxy-local coords -620..620
+
+// Static galaxy layers (haze, knots, stars). Rendered once into image plates by the
+// GalaxyPlate composition, because SVG blurs over thousands of particles are far too slow per frame.
+export const GalaxyPlate: React.FC<{soft: boolean; size: number}> = ({soft, size}) => {
+	const k = size / (PLATE_R * 2);
+	return (
+		<svg width={size} height={size} style={{position: 'absolute', left: 0, top: 0}}>
+			<defs>
+				<filter id="hblur" x="-20%" y="-20%" width="140%" height="140%">
+					<feGaussianBlur stdDeviation={22} />
+				</filter>
+				<filter id="kblur" x="-20%" y="-20%" width="140%" height="140%">
+					<feGaussianBlur stdDeviation={5} />
+				</filter>
+				<filter id="gblur" x="-20%" y="-20%" width="140%" height="140%">
+					<feGaussianBlur stdDeviation={soft ? 7 : 5} />
+				</filter>
+			</defs>
+			<g transform={`scale(${k}) translate(${PLATE_R} ${PLATE_R})`}>
+				<g filter="url(#hblur)">{HAZE.map((s, i) => <circle key={i} cx={s.x} cy={s.y} r={s.r} fill={s.c} opacity={0.22} />)}</g>
+				<g filter="url(#kblur)">{KNOTS.map((s, i) => <circle key={i} cx={s.x} cy={s.y} r={s.r} fill={s.c} opacity={0.32} />)}</g>
+				<g filter="url(#gblur)" opacity={soft ? 0.9 : 0.55}>
+					{[...STARS, ...LOCAL].map((s, i) => <circle key={i} cx={s.x} cy={s.y} r={s.r} fill={s.c} opacity={s.a} />)}
+				</g>
+				<g opacity={soft ? 0.25 : 1}>{[...STARS, ...LOCAL].map((s, i) => <circle key={i} cx={s.x} cy={s.y} r={s.r} fill={s.c} opacity={s.a} />)}</g>
+			</g>
+		</svg>
+	);
+};
+
 export const Galaxy: React.FC<{t: number; z: number; energy: number}> = ({t, z, energy}) => {
 	const close = clamp01((z - 2.2) / 2.5); // bokeh when the camera is deep inside
 	const civOn = t >= CLIMAX.reveal - 0.05 && t < CLIMAX.diveEnd + 0.3;
@@ -66,12 +97,6 @@ export const Galaxy: React.FC<{t: number; z: number; energy: number}> = ({t, z, 
 	const civFade = 1 - clamp01((t - CLIMAX.dive) / 1.0);
 	const dims = clamp01((t - 1.4) / 0.6) * (1 - clamp01((t - 4.1) / 0.5));
 	const yahLabel = clamp01((z - 1.6) / 1.5);
-	const stars = useMemo(
-		() => [...STARS, ...LOCAL].map((s, i) => <circle key={i} cx={s.x} cy={s.y} r={s.r} fill={s.c} opacity={s.a} />),
-		[],
-	);
-	const haze = useMemo(() => HAZE.map((s, i) => <circle key={i} cx={s.x} cy={s.y} r={s.r} fill={s.c} opacity={0.22} />), []);
-	const knots = useMemo(() => KNOTS.map((s, i) => <circle key={i} cx={s.x} cy={s.y} r={s.r} fill={s.c} opacity={0.32} />), []);
 	return (
 		<g transform={`translate(${GALAXY.x} ${GALAXY.y}) rotate(-18)`}>
 			<defs>
@@ -81,37 +106,24 @@ export const Galaxy: React.FC<{t: number; z: number; energy: number}> = ({t, z, 
 					<stop offset="55%" stopColor="#7d6bb8" stopOpacity={0.12} />
 					<stop offset="100%" stopColor="#000" stopOpacity={0} />
 				</radialGradient>
-				<filter id="gblur" x="-20%" y="-20%" width="140%" height="140%">
-					<feGaussianBlur stdDeviation={6} />
-				</filter>
-				<filter id="hblur" x="-20%" y="-20%" width="140%" height="140%">
-					<feGaussianBlur stdDeviation={22} />
-				</filter>
-				<filter id="kblur" x="-20%" y="-20%" width="140%" height="140%">
-					<feGaussianBlur stdDeviation={5} />
-				</filter>
 				<filter id="cblur" x="-50%" y="-50%" width="200%" height="200%">
 					<feGaussianBlur stdDeviation={3.5} />
 				</filter>
 			</defs>
 			<ellipse cx={0} cy={0} rx={560} ry={520} fill="url(#core)" opacity={0.5 + energy * 0.15} />
 			<g opacity={1 - recede * 0.6}>
-				<g filter="url(#hblur)">{haze}</g>
-				<g filter="url(#kblur)">{knots}</g>
-				<g filter="url(#gblur)" opacity={0.55 + close * 0.35}>{stars}</g>
-				<g opacity={1 - close * 0.75}>{stars}</g>
+				<image href={staticFile('plates/galaxy.png')} x={-PLATE_R} y={-PLATE_R} width={PLATE_R * 2} height={PLATE_R * 2} opacity={1 - close} />
+				{close > 0 ? <image href={staticFile('plates/galaxy-soft.png')} x={-PLATE_R} y={-PLATE_R} width={PLATE_R * 2} height={PLATE_R * 2} opacity={close} /> : null}
 			</g>
 			{civOn ? (
 				<g opacity={civFade}>
-					<g filter="url(#cblur)">
-						{CIVS.map((c, i) => {
-							const p = clamp01((t - c.t) / 0.5);
-							return p > 0 ? <circle key={i} cx={c.x} cy={c.y} r={3.2 + (1 - outExpo(p)) * 10} fill="#5ff2ff" opacity={0.85} /> : null;
-						})}
-					</g>
 					{CIVS.map((c, i) => {
 						const p = clamp01((t - c.t) / 0.5);
-						return p > 0 ? <circle key={i} cx={c.x} cy={c.y} r={2} fill="#f2feff" /> : null;
+						return p > 0 ? <circle key={i} cx={c.x} cy={c.y} r={4.5 + (1 - outExpo(p)) * 12} fill="#5ff2ff" opacity={0.15 + (1 - p) * 0.3} /> : null;
+					})}
+					{CIVS.map((c, i) => {
+						const p = clamp01((t - c.t) / 0.5);
+						return p > 0 ? <circle key={i} cx={c.x} cy={c.y} r={2.2} fill="#d8fbff" /> : null;
 					})}
 				</g>
 			) : null}
